@@ -1,25 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="487602e8-7b9b-48a7-9bde-e104d5d48f8c" name="Default" comment="2019-2-18-HBase环境搭建及初识">
+    <list default="true" id="487602e8-7b9b-48a7-9bde-e104d5d48f8c" name="Default" comment="修改图片">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-1-19-HQL和SQL的联系与区别.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-1-22-Zookeeper概念、原理、应用场景.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-1-23-Zookeeper环境的搭建以及简单测试.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-1-24-编译原理绪论.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-1-25-编译原理——语言及其文法.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-1-28-分布式事务初识.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-1-29-记一次处理ZooKeeper和Kafka的问题.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-1-30-编译原理——文法转换.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-1-30-编译原理——语法分析.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-2-14-Java基础复习.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-2-18-HBase环境搭建及初识.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-2-2-hadoop环境搭建.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-2-2-hive深入使用.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-2-2-hive环境的搭建及运行.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-2-26-JVM知识点.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-2-4-30分钟学会shell.md" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -37,28 +20,30 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="html" value="1" />
+          <entry key="html" value="2" />
           <entry key="jpg" value="1" />
-          <entry key="md" value="1" />
+          <entry key="md" value="2" />
           <entry key="yml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="HTML" value="1" />
+          <entry key="HTML" value="2" />
           <entry key="Image" value="1" />
-          <entry key="Markdown" value="1" />
+          <entry key="Markdown" value="2" />
           <entry key="YAML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="yml" value="40" />
+          <entry key="txt" value="7" />
+          <entry key="yml" value="51" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="YAML" value="40" />
+          <entry key="PLAIN_TEXT" value="7" />
+          <entry key="YAML" value="51" />
         </counts>
       </usages-collector>
     </session>
@@ -70,11 +55,20 @@
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
-              <caret line="10" column="48" selection-start-line="10" selection-start-column="48" selection-end-line="10" selection-end-column="48" />
+              <caret line="10" column="44" lean-forward="true" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/about.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="14" column="31" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -151,7 +145,6 @@
         <option value="$PROJECT_DIR$/_posts/班级墙网站建设.md" />
         <option value="$PROJECT_DIR$/_posts/HQL和SQL的联系与区别.md" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/about.html" />
         <option value="$PROJECT_DIR$/tags.html" />
         <option value="$PROJECT_DIR$/_posts/2019-1-22-Zookeeper概念、原理、应用场景.md" />
         <option value="$PROJECT_DIR$/_posts/Zookeeper环境的搭建以及简单测试.md" />
@@ -175,6 +168,7 @@
         <option value="$PROJECT_DIR$/_posts/2019-2-2-hive环境的搭建及运行.md" />
         <option value="$PROJECT_DIR$/_posts/2019-2-26-JVM知识点.md" />
         <option value="$PROJECT_DIR$/_config.yml" />
+        <option value="$PROJECT_DIR$/about.html" />
       </list>
     </option>
   </component>
@@ -246,11 +240,6 @@
               <item name="xkx1998.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="_posts" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="xkx1998.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="xkx1998.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -262,21 +251,21 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551314735308" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551314994852" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\IDEA_project\zhouyimian.github.io\_posts" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\IDEA web\xkx1998.github.io\img" />
       <recent name="D:\IDEA_project\zhouyimian.github.io\img\2019-2-26-JVM知识点" />
       <recent name="D:\IDEA_project\zhouyimian.github.io\img" />
       <recent name="D:\IDEA_project\zhouyimian.github.io\_posts" />
       <recent name="D:\IDEA_project\zhouyimian.github.io\img\2019-2-18-HBase环境搭建及初识" />
-      <recent name="D:\IDEA_project\zhouyimian.github.io\img\2019-2-14-Java基础复习" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\IDEA_project\zhouyimian.github.io\_posts" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -393,7 +382,7 @@
       <workItem from="1550559658202" duration="1250000" />
       <workItem from="1550562431702" duration="849000" />
       <workItem from="1551254019696" duration="596000" />
-      <workItem from="1551313555339" duration="1161000" />
+      <workItem from="1551313555339" duration="1406000" />
     </task>
     <task id="LOCAL-00001" summary="删除了原来的文章">
       <created>1547725344508</created>
@@ -717,17 +706,24 @@
       <option name="project" value="LOCAL" />
       <updated>1550562627248</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="修改图片">
+      <created>1551314814663</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1551314814663</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38822000" />
+    <option name="totallyTimeSpent" value="39067000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30181542" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.30181542" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -758,6 +754,38 @@
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Maven Projects" order="8" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30181542" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.3293556" />
+      <window_info anchor="bottom" id="Run" order="3" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="CheckStyle" order="8" />
+      <window_info anchor="bottom" id="Run with VisualVM" order="9" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.3293556" />
+      <window_info anchor="bottom" id="Debug with VisualVM" order="11" />
+      <window_info anchor="bottom" id="Terminal" order="12" />
+      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -766,7 +794,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="删除了没用的文章" />
     <MESSAGE value="构建失败了，删掉提示错误行" />
     <MESSAGE value="改错" />
     <MESSAGE value="加了几张图片" />
@@ -791,7 +818,8 @@
     <MESSAGE value="2019-2-4-30分钟学会shell" />
     <MESSAGE value="2019-2-14-Java基础复习" />
     <MESSAGE value="2019-2-18-HBase环境搭建及初识" />
-    <option name="LAST_COMMIT_MESSAGE" value="2019-2-18-HBase环境搭建及初识" />
+    <MESSAGE value="修改图片" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改图片" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/img/post-bg-ioses.jpg" />
@@ -836,13 +864,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/img/charlotte/005.jpg">
       <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/about.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/tags.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -1033,16 +1054,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="132">
-            <caret line="108" column="9" selection-start-line="108" selection-start-column="9" selection-end-line="108" selection-end-column="9" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/page.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1494">
@@ -1066,10 +1077,27 @@
     <entry file="file://$PROJECT_DIR$/img/2019-2-18-HBase环境搭建及初识/ZK版本.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-1776">
+            <caret line="110" column="24" lean-forward="true" selection-start-line="110" selection-start-column="24" selection-end-line="110" selection-end-column="24" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
-          <caret line="10" column="48" selection-start-line="10" selection-start-column="48" selection-end-line="10" selection-end-column="48" />
+          <caret line="10" column="44" lean-forward="true" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="14" column="31" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
         </state>
       </provider>
     </entry>
