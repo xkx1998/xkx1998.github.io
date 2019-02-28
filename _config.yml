@@ -1,18 +1,19 @@
 # Site settings
-title: KM BLog
-SEOTitle: KiloMeter的博客 | KM BLog
+title: XKX BLog
+SEOTitle: 许可翔的博客 | XKX BLog
 header-img: img/charlotte/57d8e5583272d.jpg
-email: zhouyimiankm@gmail.com
+email: 1213051978@qq.com
+
 description: "Every failure is leading towards success."
-keyword: "KiloMeter的博客, KiloMeter,BLOB"
-url: "http://zhouyimian.github.io"          # your host, for absolute URL
+keyword: "许可翔的博客, XKX BLog"
+url: "1213051978@qq.com"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/zhouyimian/zhouyimian.github.io.git" # you code repository
+github_repo: "https://github.com/xkx1998/xkx1998.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: ""
-sidebar-avatar: /img/wechatHead.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/timg.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -57,16 +58,16 @@ kramdown:
 
 # 评论系统
 # Disqus（https://disqus.com/）
-# disqus_username: zhouyimian
+# disqus_username: xkx1998
 
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: 425b8e518ccbd127abc9                            #生成的clientID
   clientSecret: 36ffd08db8b8164f997940c296f531476e359c39    #生成的clientSecret
-  repo: zhouyimian.github.io    #仓库名称
-  owner: zhouyimian    #github用户名
-  admin: zhouyimian
+  repo: xkx1998.github.io    #仓库名称
+  owner: xkx1998    #github用户名
+  admin: xkx1998
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 

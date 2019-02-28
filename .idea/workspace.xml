@@ -2,276 +2,101 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="487602e8-7b9b-48a7-9bde-e104d5d48f8c" name="Default" comment="2019-2-18-HBase环境搭建及初识">
-      <change beforePath="" afterPath="$PROJECT_DIR$/_posts/2019-2-26-JVM知识点.md" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-2-26-JVM知识点/28.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-2-26-JVM知识点/CMS 收集器工作过程.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-2-26-JVM知识点/JVM类加载过程.PNG" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-2-26-JVM知识点/Java内存模型.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-2-26-JVM知识点/双亲委派原则.PNG" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-2-26-JVM知识点/堆结构.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-2-26-JVM知识点/复制算法.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-2-26-JVM知识点/新生代 Parallel Scavenge 和年老代 Parallel Old 收集器搭配.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-2-26-JVM知识点/新生代 Parallel 和老年代serial old 搭配使用.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-2-26-JVM知识点/新生代serial和老年代serial old搭配使用.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-2-26-JVM知识点/标记整理算法.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/2019-2-26-JVM知识点/标记清除算法.png" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-1-19-HQL和SQL的联系与区别.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-1-22-Zookeeper概念、原理、应用场景.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-1-23-Zookeeper环境的搭建以及简单测试.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-1-24-编译原理绪论.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-1-25-编译原理——语言及其文法.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-1-28-分布式事务初识.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-1-29-记一次处理ZooKeeper和Kafka的问题.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-1-30-编译原理——文法转换.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-1-30-编译原理——语法分析.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-2-14-Java基础复习.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-2-18-HBase环境搭建及初识.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-2-2-hadoop环境搭建.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-2-2-hive深入使用.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-2-2-hive环境的搭建及运行.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-2-26-JVM知识点.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-2-4-30分钟学会shell.md" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1385373482">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.35" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="html" value="1" />
+          <entry key="jpg" value="1" />
+          <entry key="md" value="1" />
+          <entry key="yml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="1" />
+          <entry key="Image" value="1" />
+          <entry key="Markdown" value="1" />
+          <entry key="YAML" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="yml" value="40" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="YAML" value="40" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="2019-2-2-hadoop环境搭建.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2019-2-2-hadoop环境搭建.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="11" selection-end-column="3" />
-                <folding>
-                  <marker date="1549093934600" expanded="true" signature="492:719" ph="..." />
-                  <marker date="1549093934600" expanded="true" signature="504:583" ph="..." />
-                  <marker date="1549093934600" expanded="true" signature="595:702" ph="..." />
-                  <marker date="1549093934600" expanded="true" signature="940:1336" ph="..." />
-                  <marker date="1549093934600" expanded="true" signature="979:1042" ph="..." />
-                  <marker date="1549093934600" expanded="true" signature="1054:1179" ph="..." />
-                  <marker date="1549093934600" expanded="true" signature="1194:1319" ph="..." />
-                  <marker date="1549093934600" expanded="true" signature="1581:1803" ph="..." />
-                  <marker date="1549093934600" expanded="true" signature="1594:1678" ph="..." />
-                  <marker date="1549093934600" expanded="true" signature="1692:1786" ph="..." />
-                  <marker date="1549093934600" expanded="true" signature="1926:2229" ph="..." />
-                  <marker date="1549093934600" expanded="true" signature="1990:2098" ph="..." />
-                  <marker date="1549093934600" expanded="true" signature="2113:2212" ph="..." />
-                </folding>
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2019-2-2-hive深入使用.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2019-2-2-hive深入使用.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="270">
-                <caret line="10" column="7" lean-forward="false" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
-                <folding>
-                  <marker date="1550562497257" expanded="true" signature="636:652" ph="select * fro... 表名" />
-                  <marker date="1550562497257" expanded="true" signature="791:807" ph="select * fro... 表名" />
-                  <marker date="1550562497257" expanded="true" signature="2096:2298" ph="create table... if" />
-                  <marker date="1550562497257" expanded="true" signature="2466:2529" ph="select * fro... track_log" />
-                  <marker date="1550562497257" expanded="true" signature="2531:2578" ph="select * fro... track_log" />
-                  <marker date="1550562497257" expanded="true" signature="2942:3165" ph="..." />
-                  <marker date="1550562497257" expanded="true" signature="3177:3411" ph="..." />
-                  <marker date="1550562497257" expanded="true" signature="3264:3399" ph="..." />
-                  <marker date="1550562497257" expanded="true" signature="3487:3693" ph="..." />
-                  <marker date="1550562497257" expanded="true" signature="3566:3681" ph="..." />
-                  <marker date="1550562497257" expanded="true" signature="4077:4322" ph="..." />
-                  <marker date="1550562497257" expanded="true" signature="4174:4310" ph="..." />
-                  <marker date="1550562497257" expanded="true" signature="4399:4949" ph="..." />
-                  <marker date="1550562497257" expanded="true" signature="4420:4579" ph="..." />
-                  <marker date="1550562497257" expanded="true" signature="4600:4754" ph="..." />
-                  <marker date="1550562497257" expanded="true" signature="4775:4929" ph="..." />
-                  <marker date="1550562497257" expanded="true" signature="5072:5209" ph="{...}" />
-                  <marker date="1550562497257" expanded="true" signature="5253:5264" ph=" { " />
-                  <marker date="1550562497257" expanded="true" signature="5328:5334" ph=" }" />
-                  <marker date="1550562497257" expanded="true" signature="5610:5643" ph="select zlowe... emp" />
-                </folding>
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2019-2-4-30分钟学会shell.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2019-2-4-30分钟学会shell.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="3" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2019-2-14-Java基础复习.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2019-2-14-Java基础复习.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="11" selection-end-column="3" />
-                <folding>
-                  <marker date="1550152004906" expanded="true" signature="1396:1443" ph="/**...*/" />
-                  <marker date="1550152004906" expanded="true" signature="1658:1705" ph="/**...*/" />
-                  <marker date="1550152004906" expanded="true" signature="1743:1823" ph="/**...*/" />
-                  <marker date="1550152004906" expanded="true" signature="4251:4521" ph="{...}" />
-                  <marker date="1550152004906" expanded="true" signature="4292:4303" ph=" { " />
-                  <marker date="1550152004906" expanded="true" signature="4320:4326" ph=" }" />
-                  <marker date="1550152004906" expanded="true" signature="4348:4359" ph=" { " />
-                  <marker date="1550152004906" expanded="true" signature="4376:4382" ph=" }" />
-                  <marker date="1550152004906" expanded="true" signature="4413:4424" ph=" { " />
-                  <marker date="1550152004906" expanded="true" signature="4441:4447" ph=" }" />
-                  <marker date="1550152004906" expanded="true" signature="4478:4489" ph=" { " />
-                  <marker date="1550152004906" expanded="true" signature="4513:4519" ph=" }" />
-                  <marker date="1550152004906" expanded="true" signature="4554:5120" ph="{...}" />
-                  <marker date="1550152004906" expanded="true" signature="4599:4850" ph="{...}" />
-                  <marker date="1550152004906" expanded="true" signature="4890:5118" ph="{...}" />
-                  <marker date="1550152004906" expanded="true" signature="5248:5363" ph="{...}" />
-                  <marker date="1550152004906" expanded="true" signature="5402:5413" ph=" { " />
-                  <marker date="1550152004906" expanded="true" signature="5430:5436" ph=" }" />
-                  <marker date="1550152004906" expanded="true" signature="6307:6612" ph="/.../" />
-                  <marker date="1550152004906" expanded="true" signature="7411:7422" ph=" { " />
-                  <marker date="1550152004906" expanded="true" signature="7437:7443" ph=" }" />
-                  <marker date="1550152004906" expanded="true" signature="7477:7488" ph=" { " />
-                  <marker date="1550152004906" expanded="true" signature="7518:7524" ph=" }" />
-                  <marker date="1550152004906" expanded="true" signature="7658:7680" ph="{...}" />
-                  <marker date="1550152004906" expanded="true" signature="7758:7769" ph=" { " />
-                  <marker date="1550152004906" expanded="true" signature="7799:7805" ph=" }" />
-                  <marker date="1550152004906" expanded="true" signature="7832:7843" ph=" { " />
-                  <marker date="1550152004906" expanded="true" signature="7872:7878" ph=" }" />
-                  <marker date="1550152004906" expanded="true" signature="8055:8204" ph="{...}" />
-                  <marker date="1550152004906" expanded="true" signature="8157:8168" ph=" { " />
-                  <marker date="1550152004906" expanded="true" signature="8196:8202" ph=" }" />
-                  <marker date="1550152004906" expanded="true" signature="8274:8360" ph="{...}" />
-                  <marker date="1550152004906" expanded="true" signature="8313:8324" ph=" { " />
-                  <marker date="1550152004906" expanded="true" signature="8352:8358" ph=" }" />
-                  <marker date="1550152004906" expanded="true" signature="10049:10070" ph="{...}" />
-                  <marker date="1550152004906" expanded="true" signature="10093:10131" ph="{...}" />
-                  <marker date="1550152004906" expanded="true" signature="10180:10296" ph="{...}" />
-                  <marker date="1550152004906" expanded="true" signature="10198:10218" ph="{}" />
-                  <marker date="1550152004906" expanded="true" signature="10236:10256" ph="{}" />
-                  <marker date="1550152004906" expanded="true" signature="10274:10294" ph="{}" />
-                  <marker date="1550152004906" expanded="true" signature="10535:10751" ph="{...}" />
-                  <marker date="1550152004906" expanded="true" signature="10619:10666" ph="{...}" />
-                  <marker date="1550152004906" expanded="true" signature="10690:10701" ph=" { " />
-                  <marker date="1550152004906" expanded="true" signature="10743:10749" ph=" }" />
-                  <marker date="1550152004906" expanded="true" signature="10805:11054" ph="{...}" />
-                  <marker date="1550152004906" expanded="true" signature="10879:10927" ph="{...}" />
-                  <marker date="1550152004906" expanded="true" signature="10966:11052" ph="{...}" />
-                  <marker date="1550152004906" expanded="true" signature="13344:13395" ph="{...}" />
-                  <marker date="1550152004906" expanded="true" signature="13943:13980" ph="{...}" />
-                  <marker date="1550152004906" expanded="true" signature="14146:14261" ph="{...}" />
-                  <marker date="1550152004906" expanded="true" signature="14304:14315" ph=" { " />
-                  <marker date="1550152004906" expanded="true" signature="14334:14340" ph=" }" />
-                  <marker date="1550152004906" expanded="true" signature="14371:14382" ph=" { " />
-                  <marker date="1550152004906" expanded="true" signature="14400:14406" ph=" }" />
-                  <marker date="1550152004906" expanded="true" signature="14498:14557" ph="{...}" />
-                  <marker date="1550152004906" expanded="true" signature="14948:15063" ph="{...}" />
-                  <marker date="1550152004906" expanded="true" signature="15106:15117" ph=" { " />
-                  <marker date="1550152004906" expanded="true" signature="15136:15142" ph=" }" />
-                  <marker date="1550152004906" expanded="true" signature="15173:15184" ph=" { " />
-                  <marker date="1550152004906" expanded="true" signature="15202:15208" ph=" }" />
-                  <marker date="1550152004906" expanded="true" signature="15297:15530" ph="{...}" />
-                  <marker date="1550152004906" expanded="true" signature="15997:16112" ph="{...}" />
-                  <marker date="1550152004906" expanded="true" signature="16183:16338" ph="{...}" />
-                  <marker date="1550152004906" expanded="true" signature="16381:16392" ph=" { " />
-                  <marker date="1550152004906" expanded="true" signature="16411:16417" ph=" }" />
-                  <marker date="1550152004906" expanded="true" signature="16448:16459" ph=" { " />
-                  <marker date="1550152004906" expanded="true" signature="16477:16483" ph=" }" />
-                  <marker date="1550152004906" expanded="true" signature="17346:17510" ph="{...}" />
-                  <marker date="1550152004906" expanded="true" signature="17648:17655" ph="{}" />
-                  <marker date="1550152004906" expanded="true" signature="17918:18120" ph="{...}" />
-                  <marker date="1550152004906" expanded="true" signature="17947:18114" ph="//..." />
-                  <marker date="1550152004906" expanded="true" signature="18196:18238" ph="{...}" />
-                  <marker date="1550152004906" expanded="true" signature="18283:18338" ph="{...}" />
-                  <marker date="1550152004906" expanded="true" signature="18448:18455" ph="{...}" />
-                  <marker date="1550152004906" expanded="true" signature="18491:18498" ph="{...}" />
-                  <marker date="1550152004906" expanded="true" signature="18543:18846" ph="{...}" />
-                </folding>
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2019-2-18-HBase环境搭建及初识.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2019-2-18-HBase环境搭建及初识.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="11" selection-end-column="3" />
-                <folding>
-                  <marker date="1550561061191" expanded="true" signature="476:1081" ph="..." />
-                  <marker date="1550561061191" expanded="true" signature="488:601" ph="..." />
-                  <marker date="1550561061191" expanded="true" signature="613:689" ph="..." />
-                  <marker date="1550561061191" expanded="true" signature="701:817" ph="..." />
-                  <marker date="1550561061191" expanded="true" signature="829:924" ph="..." />
-                  <marker date="1550561061191" expanded="true" signature="936:1064" ph="..." />
-                </folding>
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2019-2-26-JVM知识点.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_posts/2019-2-26-JVM知识点.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="162">
-                <caret line="6" column="39" lean-forward="true" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ZK版本.png" pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/img/2019-2-18-HBase环境搭建及初识/ZK版本.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
-      <file leaf-file-name="2019-2-2-hive环境的搭建及运行.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2019-2-2-hive环境的搭建及运行.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="270">
-                <caret line="10" column="10" lean-forward="false" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
-                <folding>
-                  <marker date="1550562497079" expanded="true" signature="1449:1697" ph="..." />
-                  <marker date="1550562497079" expanded="true" signature="1709:1881" ph="..." />
-                  <marker date="1550562497079" expanded="true" signature="1893:2050" ph="..." />
-                  <marker date="1550562497079" expanded="true" signature="2062:2224" ph="..." />
-                  <marker date="1550562497079" expanded="true" signature="3154:3313" ph="..." />
-                  <marker date="1550562497079" expanded="true" signature="3325:3489" ph="..." />
-                  <marker date="1550562497079" expanded="true" signature="3626:3796" ph="..." />
-                </folding>
-              </first_editor>
-              <second_editor />
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_config.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="10" column="48" selection-start-line="10" selection-start-column="48" selection-end-line="10" selection-end-column="48" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2019-1-30-编译原理——语法分析.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2019-1-30-编译原理——语法分析.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="162">
-                <caret line="6" column="29" lean-forward="false" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
-                <folding />
-              </first_editor>
-              <second_editor />
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_layouts/page.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1494">
+              <caret line="83" column="38" lean-forward="true" selection-start-line="83" selection-start-column="38" selection-end-line="83" selection-end-column="38" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/img/wechatHead.jpg">
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
     </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>qiubaiying</find>
-      <find>jianshu</find>
-      <find>post-bg</find>
-      <find>BY Blog</find>
       <find>KM BLOB</find>
       <find>Thinking will not overcome fear but action will.</find>
       <find>BY BLog</find>
@@ -298,6 +123,10 @@
       <find>png</find>
       <find>2019-2-18 HBase环境搭建及初识</find>
       <find>D:\githubIO博客\2019-2-26-JVM知识点\</find>
+      <find>About ME</find>
+      <find>/about</find>
+      <find>wechatHea</find>
+      <find>zhouyimiankm@gmail.com</find>
     </findStrings>
     <replaceStrings>
       <replace>zhouyimian</replace>
@@ -315,18 +144,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GradleLocalSettings">
-    <option name="externalProjectsViewState">
-      <projects_view />
-    </option>
-  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/_posts/班级墙网站建设.md" />
         <option value="$PROJECT_DIR$/_posts/HQL和SQL的联系与区别.md" />
-        <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/about.html" />
         <option value="$PROJECT_DIR$/tags.html" />
@@ -351,6 +174,7 @@
         <option value="$PROJECT_DIR$/_posts/2019-2-2-hive深入使用.md" />
         <option value="$PROJECT_DIR$/_posts/2019-2-2-hive环境的搭建及运行.md" />
         <option value="$PROJECT_DIR$/_posts/2019-2-26-JVM知识点.md" />
+        <option value="$PROJECT_DIR$/_config.yml" />
       </list>
     </option>
   </component>
@@ -372,6 +196,11 @@
         <option name="importAutomatically" value="true" />
       </MavenImportingSettings>
     </option>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/package.json" />
+    </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-11" />
@@ -399,59 +228,44 @@
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
-      <flattenPackages />
-      <showMembers />
-      <showModules />
-      <showLibraryContents />
-      <hideEmptyPackages />
-      <abbreviatePackageNames />
+    <navigator proportions="" version="1">
       <autoscrollToSource ProjectPane="false" />
       <autoscrollFromSource ProjectPane="true" />
-      <sortByType />
-      <manualOrder />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scratches" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="zhouyimian.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zhouyimian.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="xkx1998.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xkx1998.github.io" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="zhouyimian.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zhouyimian.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="xkx1998.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xkx1998.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="_posts" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="zhouyimian.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zhouyimian.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="xkx1998.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xkx1998.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="img" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="zhouyimian.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zhouyimian.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-              <item name="2019-2-26-JVM知识点" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551314735308" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -478,54 +292,6 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <module />
-    </configuration>
-    <configuration default="true" type="Application" factoryName="Application">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
-      <envs />
-    </configuration>
-    <configuration default="true" type="JUnit" factoryName="JUnit">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
-    <configuration default="true" type="Remote" factoryName="Remote">
-      <option name="USE_SOCKET_TRANSPORT" value="true" />
-      <option name="SERVER_MODE" value="false" />
-      <option name="SHMEM_ADDRESS" value="javadebug" />
-      <option name="HOST" value="localhost" />
-      <option name="PORT" value="5005" />
-    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -559,14 +325,31 @@
       <option name="PROGRAM_PARAMETERS" />
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SbtLocalSettings">
     <option name="externalProjectsViewState">
       <projects_view />
     </option>
-  </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -610,6 +393,7 @@
       <workItem from="1550559658202" duration="1250000" />
       <workItem from="1550562431702" duration="849000" />
       <workItem from="1551254019696" duration="596000" />
+      <workItem from="1551313555339" duration="1161000" />
     </task>
     <task id="LOCAL-00001" summary="删除了原来的文章">
       <created>1547725344508</created>
@@ -937,40 +721,42 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37661000" />
+    <option name="totallyTimeSpent" value="38822000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293556" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="CheckStyle" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29697624" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293556" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30181542" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3293556" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="CheckStyle" order="7" />
+      <window_info anchor="bottom" id="Run with VisualVM" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.3293556" />
+      <window_info anchor="bottom" id="Debug with VisualVM" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1007,13 +793,7 @@
     <MESSAGE value="2019-2-18-HBase环境搭建及初识" />
     <option name="LAST_COMMIT_MESSAGE" value="2019-2-18-HBase环境搭建及初识" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager />
-    <watches-manager />
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/img/post-bg-ios9-web.jpg" />
-    <entry file="file://$PROJECT_DIR$/img/post-bg-ios10.jpg" />
     <entry file="file://$PROJECT_DIR$/img/post-bg-ioses.jpg" />
     <entry file="file://$PROJECT_DIR$/img/post-bg-iWatch.jpg" />
     <entry file="file://$PROJECT_DIR$/img/post-bg-js-version.jpg" />
@@ -1030,64 +810,44 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/wechatHead.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pwa/manifest.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="27">
-          <caret line="1" column="11" lean-forward="false" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="1" column="7" lean-forward="false" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
+          <caret line="1" column="11" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/img/charlotte/57d8e5583272d.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/img/charlotte/charlotte.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/img/charlotte/57d8e5540c95f.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/img/view/1.jpg" />
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="27">
-          <caret line="1" column="12" lean-forward="false" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+          <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/img/charlotte/005.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/about.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
-          <caret line="7" column="26" lean-forward="false" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+          <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/tags.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="243">
-          <caret line="9" column="27" lean-forward="false" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+          <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
         </state>
       </provider>
     </entry>
@@ -1095,57 +855,45 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="108">
-            <caret line="4" column="22" lean-forward="false" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+            <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/img/2019-1-24-编译原理绪论/4.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/img/2019-1-25-编译原理——语言及其文法/24.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/img/2019-1-29-记一次处理ZooKeeper和Kafka的问题/22.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/img/2019-1-29-记一次处理ZooKeeper和Kafka的问题/kafka发送消息报错.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/img/2019-1-29-记一次处理ZooKeeper和Kafka的问题/kafka启动brokers已被注册.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2019-1-28-分布式事务初识.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="297">
-            <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+            <caret line="11" selection-start-line="11" selection-end-line="11" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/img/2019-1-30-编译原理——语法分析/16.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2019-1-29-记一次处理ZooKeeper和Kafka的问题.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="297">
-            <caret line="11" column="3" lean-forward="false" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+            <caret line="11" column="3" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
           </first_editor>
           <second_editor />
         </state>
@@ -1155,7 +903,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="1080">
-            <caret line="40" column="26" lean-forward="false" selection-start-line="40" selection-start-column="26" selection-end-line="40" selection-end-column="26" />
+            <caret line="40" column="26" selection-start-line="40" selection-start-column="26" selection-end-line="40" selection-end-column="26" />
           </first_editor>
           <second_editor />
         </state>
@@ -1165,7 +913,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="1971">
-            <caret line="73" column="0" lean-forward="false" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
+            <caret line="73" selection-start-line="73" selection-end-line="73" />
           </first_editor>
           <second_editor />
         </state>
@@ -1175,17 +923,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="756">
-            <caret line="28" column="3" lean-forward="false" selection-start-line="28" selection-start-column="3" selection-end-line="28" selection-end-column="3" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-1-19-HQL和SQL的联系与区别.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="108">
-            <caret line="4" column="21" lean-forward="false" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+            <caret line="28" column="3" selection-start-line="28" selection-start-column="3" selection-end-line="28" selection-end-column="3" />
           </first_editor>
           <second_editor />
         </state>
@@ -1195,7 +933,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="648">
-            <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+            <caret line="24" selection-start-line="24" selection-end-line="24" />
           </first_editor>
           <second_editor />
         </state>
@@ -1205,19 +943,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="270">
-            <caret line="10" column="15" lean-forward="false" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-1-30-编译原理——语法分析.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="162">
-            <caret line="6" column="29" lean-forward="false" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
-            <folding />
+            <caret line="10" column="15" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
           </first_editor>
           <second_editor />
         </state>
@@ -1225,131 +951,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/img/2019-2-2-hive深入使用/2019-2-2-hive深入使用.md" />
     <entry file="file://$PROJECT_DIR$/img/2019-2-14-Java基础复习/2019-2-14-Java基础复习.md" />
-    <entry file="file://$PROJECT_DIR$/_posts/2019-2-4-30分钟学会shell.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="3" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-2-14-Java基础复习.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="11" selection-end-column="3" />
-            <folding>
-              <marker date="1550152004906" expanded="true" signature="1396:1443" ph="/**...*/" />
-              <marker date="1550152004906" expanded="true" signature="1658:1705" ph="/**...*/" />
-              <marker date="1550152004906" expanded="true" signature="1743:1823" ph="/**...*/" />
-              <marker date="1550152004906" expanded="true" signature="4251:4521" ph="{...}" />
-              <marker date="1550152004906" expanded="true" signature="4292:4303" ph=" { " />
-              <marker date="1550152004906" expanded="true" signature="4320:4326" ph=" }" />
-              <marker date="1550152004906" expanded="true" signature="4348:4359" ph=" { " />
-              <marker date="1550152004906" expanded="true" signature="4376:4382" ph=" }" />
-              <marker date="1550152004906" expanded="true" signature="4413:4424" ph=" { " />
-              <marker date="1550152004906" expanded="true" signature="4441:4447" ph=" }" />
-              <marker date="1550152004906" expanded="true" signature="4478:4489" ph=" { " />
-              <marker date="1550152004906" expanded="true" signature="4513:4519" ph=" }" />
-              <marker date="1550152004906" expanded="true" signature="4554:5120" ph="{...}" />
-              <marker date="1550152004906" expanded="true" signature="4599:4850" ph="{...}" />
-              <marker date="1550152004906" expanded="true" signature="4890:5118" ph="{...}" />
-              <marker date="1550152004906" expanded="true" signature="5248:5363" ph="{...}" />
-              <marker date="1550152004906" expanded="true" signature="5402:5413" ph=" { " />
-              <marker date="1550152004906" expanded="true" signature="5430:5436" ph=" }" />
-              <marker date="1550152004906" expanded="true" signature="6307:6612" ph="/.../" />
-              <marker date="1550152004906" expanded="true" signature="7411:7422" ph=" { " />
-              <marker date="1550152004906" expanded="true" signature="7437:7443" ph=" }" />
-              <marker date="1550152004906" expanded="true" signature="7477:7488" ph=" { " />
-              <marker date="1550152004906" expanded="true" signature="7518:7524" ph=" }" />
-              <marker date="1550152004906" expanded="true" signature="7658:7680" ph="{...}" />
-              <marker date="1550152004906" expanded="true" signature="7758:7769" ph=" { " />
-              <marker date="1550152004906" expanded="true" signature="7799:7805" ph=" }" />
-              <marker date="1550152004906" expanded="true" signature="7832:7843" ph=" { " />
-              <marker date="1550152004906" expanded="true" signature="7872:7878" ph=" }" />
-              <marker date="1550152004906" expanded="true" signature="8055:8204" ph="{...}" />
-              <marker date="1550152004906" expanded="true" signature="8157:8168" ph=" { " />
-              <marker date="1550152004906" expanded="true" signature="8196:8202" ph=" }" />
-              <marker date="1550152004906" expanded="true" signature="8274:8360" ph="{...}" />
-              <marker date="1550152004906" expanded="true" signature="8313:8324" ph=" { " />
-              <marker date="1550152004906" expanded="true" signature="8352:8358" ph=" }" />
-              <marker date="1550152004906" expanded="true" signature="10049:10070" ph="{...}" />
-              <marker date="1550152004906" expanded="true" signature="10093:10131" ph="{...}" />
-              <marker date="1550152004906" expanded="true" signature="10180:10296" ph="{...}" />
-              <marker date="1550152004906" expanded="true" signature="10198:10218" ph="{}" />
-              <marker date="1550152004906" expanded="true" signature="10236:10256" ph="{}" />
-              <marker date="1550152004906" expanded="true" signature="10274:10294" ph="{}" />
-              <marker date="1550152004906" expanded="true" signature="10535:10751" ph="{...}" />
-              <marker date="1550152004906" expanded="true" signature="10619:10666" ph="{...}" />
-              <marker date="1550152004906" expanded="true" signature="10690:10701" ph=" { " />
-              <marker date="1550152004906" expanded="true" signature="10743:10749" ph=" }" />
-              <marker date="1550152004906" expanded="true" signature="10805:11054" ph="{...}" />
-              <marker date="1550152004906" expanded="true" signature="10879:10927" ph="{...}" />
-              <marker date="1550152004906" expanded="true" signature="10966:11052" ph="{...}" />
-              <marker date="1550152004906" expanded="true" signature="13344:13395" ph="{...}" />
-              <marker date="1550152004906" expanded="true" signature="13943:13980" ph="{...}" />
-              <marker date="1550152004906" expanded="true" signature="14146:14261" ph="{...}" />
-              <marker date="1550152004906" expanded="true" signature="14304:14315" ph=" { " />
-              <marker date="1550152004906" expanded="true" signature="14334:14340" ph=" }" />
-              <marker date="1550152004906" expanded="true" signature="14371:14382" ph=" { " />
-              <marker date="1550152004906" expanded="true" signature="14400:14406" ph=" }" />
-              <marker date="1550152004906" expanded="true" signature="14498:14557" ph="{...}" />
-              <marker date="1550152004906" expanded="true" signature="14948:15063" ph="{...}" />
-              <marker date="1550152004906" expanded="true" signature="15106:15117" ph=" { " />
-              <marker date="1550152004906" expanded="true" signature="15136:15142" ph=" }" />
-              <marker date="1550152004906" expanded="true" signature="15173:15184" ph=" { " />
-              <marker date="1550152004906" expanded="true" signature="15202:15208" ph=" }" />
-              <marker date="1550152004906" expanded="true" signature="15297:15530" ph="{...}" />
-              <marker date="1550152004906" expanded="true" signature="15997:16112" ph="{...}" />
-              <marker date="1550152004906" expanded="true" signature="16183:16338" ph="{...}" />
-              <marker date="1550152004906" expanded="true" signature="16381:16392" ph=" { " />
-              <marker date="1550152004906" expanded="true" signature="16411:16417" ph=" }" />
-              <marker date="1550152004906" expanded="true" signature="16448:16459" ph=" { " />
-              <marker date="1550152004906" expanded="true" signature="16477:16483" ph=" }" />
-              <marker date="1550152004906" expanded="true" signature="17346:17510" ph="{...}" />
-              <marker date="1550152004906" expanded="true" signature="17648:17655" ph="{}" />
-              <marker date="1550152004906" expanded="true" signature="17918:18120" ph="{...}" />
-              <marker date="1550152004906" expanded="true" signature="17947:18114" ph="//..." />
-              <marker date="1550152004906" expanded="true" signature="18196:18238" ph="{...}" />
-              <marker date="1550152004906" expanded="true" signature="18283:18338" ph="{...}" />
-              <marker date="1550152004906" expanded="true" signature="18448:18455" ph="{...}" />
-              <marker date="1550152004906" expanded="true" signature="18491:18498" ph="{...}" />
-              <marker date="1550152004906" expanded="true" signature="18543:18846" ph="{...}" />
-            </folding>
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/2019-2-18-HBase环境搭建及初识/ZK版本.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/img/2019-2-18 HBase环境搭建及初识/2019-2-18 HBase环境搭建及初识.md" />
+    <entry file="file://$PROJECT_DIR$/img/2019-2-26-JVM知识点/2019-2-26-JVM知识点.md" />
     <entry file="file://$PROJECT_DIR$/_posts/2019-2-2-hadoop环境搭建.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="11" selection-end-column="3" />
-            <folding>
-              <marker date="1549093934600" expanded="true" signature="492:719" ph="..." />
-              <marker date="1549093934600" expanded="true" signature="504:583" ph="..." />
-              <marker date="1549093934600" expanded="true" signature="595:702" ph="..." />
-              <marker date="1549093934600" expanded="true" signature="940:1336" ph="..." />
-              <marker date="1549093934600" expanded="true" signature="979:1042" ph="..." />
-              <marker date="1549093934600" expanded="true" signature="1054:1179" ph="..." />
-              <marker date="1549093934600" expanded="true" signature="1194:1319" ph="..." />
-              <marker date="1549093934600" expanded="true" signature="1581:1803" ph="..." />
-              <marker date="1549093934600" expanded="true" signature="1594:1678" ph="..." />
-              <marker date="1549093934600" expanded="true" signature="1692:1786" ph="..." />
-              <marker date="1549093934600" expanded="true" signature="1926:2229" ph="..." />
-              <marker date="1549093934600" expanded="true" signature="1990:2098" ph="..." />
-              <marker date="1549093934600" expanded="true" signature="2113:2212" ph="..." />
-            </folding>
+          <first_editor>
+            <caret selection-end-line="11" selection-end-column="3" />
           </first_editor>
           <second_editor />
         </state>
@@ -1358,60 +966,28 @@
     <entry file="file://$PROJECT_DIR$/_posts/2019-2-2-hive深入使用.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="270">
-            <caret line="10" column="7" lean-forward="false" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
-            <folding>
-              <marker date="1550562497257" expanded="true" signature="636:652" ph="select * fro... 表名" />
-              <marker date="1550562497257" expanded="true" signature="791:807" ph="select * fro... 表名" />
-              <marker date="1550562497257" expanded="true" signature="2096:2298" ph="create table... if" />
-              <marker date="1550562497257" expanded="true" signature="2466:2529" ph="select * fro... track_log" />
-              <marker date="1550562497257" expanded="true" signature="2531:2578" ph="select * fro... track_log" />
-              <marker date="1550562497257" expanded="true" signature="2942:3165" ph="..." />
-              <marker date="1550562497257" expanded="true" signature="3177:3411" ph="..." />
-              <marker date="1550562497257" expanded="true" signature="3264:3399" ph="..." />
-              <marker date="1550562497257" expanded="true" signature="3487:3693" ph="..." />
-              <marker date="1550562497257" expanded="true" signature="3566:3681" ph="..." />
-              <marker date="1550562497257" expanded="true" signature="4077:4322" ph="..." />
-              <marker date="1550562497257" expanded="true" signature="4174:4310" ph="..." />
-              <marker date="1550562497257" expanded="true" signature="4399:4949" ph="..." />
-              <marker date="1550562497257" expanded="true" signature="4420:4579" ph="..." />
-              <marker date="1550562497257" expanded="true" signature="4600:4754" ph="..." />
-              <marker date="1550562497257" expanded="true" signature="4775:4929" ph="..." />
-              <marker date="1550562497257" expanded="true" signature="5072:5209" ph="{...}" />
-              <marker date="1550562497257" expanded="true" signature="5253:5264" ph=" { " />
-              <marker date="1550562497257" expanded="true" signature="5328:5334" ph=" }" />
-              <marker date="1550562497257" expanded="true" signature="5610:5643" ph="select zlowe... emp" />
-            </folding>
+          <first_editor relative-caret-position="180">
+            <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-2-2-hive环境的搭建及运行.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2019-2-4-30分钟学会shell.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="270">
-            <caret line="10" column="10" lean-forward="false" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
-            <folding>
-              <marker date="1550562497079" expanded="true" signature="1449:1697" ph="..." />
-              <marker date="1550562497079" expanded="true" signature="1709:1881" ph="..." />
-              <marker date="1550562497079" expanded="true" signature="1893:2050" ph="..." />
-              <marker date="1550562497079" expanded="true" signature="2062:2224" ph="..." />
-              <marker date="1550562497079" expanded="true" signature="3154:3313" ph="..." />
-              <marker date="1550562497079" expanded="true" signature="3325:3489" ph="..." />
-              <marker date="1550562497079" expanded="true" signature="3626:3796" ph="..." />
-            </folding>
+          <first_editor>
+            <caret selection-end-line="10" selection-end-column="3" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/2019-2-26-JVM知识点/2019-2-26-JVM知识点.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2019-2-14-Java基础复习.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
+          <first_editor>
+            <caret selection-end-line="11" selection-end-column="3" />
           </first_editor>
           <second_editor />
         </state>
@@ -1420,16 +996,18 @@
     <entry file="file://$PROJECT_DIR$/_posts/2019-2-18-HBase环境搭建及初识.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="11" selection-end-column="3" />
-            <folding>
-              <marker date="1550561061191" expanded="true" signature="476:1081" ph="..." />
-              <marker date="1550561061191" expanded="true" signature="488:601" ph="..." />
-              <marker date="1550561061191" expanded="true" signature="613:689" ph="..." />
-              <marker date="1550561061191" expanded="true" signature="701:817" ph="..." />
-              <marker date="1550561061191" expanded="true" signature="829:924" ph="..." />
-              <marker date="1550561061191" expanded="true" signature="936:1064" ph="..." />
-            </folding>
+          <first_editor>
+            <caret selection-end-line="11" selection-end-column="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-2-2-hive环境的搭建及运行.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="180">
+            <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
           </first_editor>
           <second_editor />
         </state>
@@ -1438,11 +1016,60 @@
     <entry file="file://$PROJECT_DIR$/_posts/2019-2-26-JVM知识点.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="162">
-            <caret line="6" column="39" lean-forward="true" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
-            <folding />
+          <first_editor relative-caret-position="108">
+            <caret line="6" column="39" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-1-30-编译原理——语法分析.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-18">
+            <caret line="38" column="19" lean-forward="true" selection-start-line="38" selection-start-column="19" selection-end-line="38" selection-end-column="19" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="132">
+            <caret line="108" column="9" selection-start-line="108" selection-start-column="9" selection-end-line="108" selection-end-column="9" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1494">
+          <caret line="83" column="38" lean-forward="true" selection-start-line="83" selection-start-column="38" selection-end-line="83" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/wechatHead.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-1-19-HQL和SQL的联系与区别.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="252">
+            <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/2019-2-18-HBase环境搭建及初识/ZK版本.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="48" selection-start-line="10" selection-start-column="48" selection-end-line="10" selection-end-column="48" />
         </state>
       </provider>
     </entry>
