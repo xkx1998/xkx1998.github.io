@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="487602e8-7b9b-48a7-9bde-e104d5d48f8c" name="Default" comment="修改封面">
-      <change afterPath="$PROJECT_DIR$/_posts/2019-3-3-java学习之路.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="487602e8-7b9b-48a7-9bde-e104d5d48f8c" name="Default" comment="java的学习路线和自己的心得体会">
+      <change beforePath="$PROJECT_DIR$/_posts/2019-3-3-java学习之路.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-3-3-java学习之路.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -40,15 +39,15 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="md" value="1018" />
-          <entry key="txt" value="31" />
+          <entry key="md" value="1029" />
+          <entry key="txt" value="71" />
           <entry key="yml" value="51" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Markdown" value="1018" />
-          <entry key="PLAIN_TEXT" value="31" />
+          <entry key="Markdown" value="1029" />
+          <entry key="PLAIN_TEXT" value="71" />
           <entry key="YAML" value="51" />
         </counts>
       </usages-collector>
@@ -69,8 +68,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2019-3-3-java学习之路.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="1368">
-                <caret line="76" column="6" lean-forward="true" selection-start-line="76" selection-start-column="6" selection-end-line="76" selection-end-column="6" />
+              <first_editor relative-caret-position="216">
+                <caret line="12" column="45" lean-forward="true" selection-start-line="12" selection-start-column="45" selection-end-line="12" selection-end-column="45" />
               </first_editor>
               <second_editor />
             </state>
@@ -242,7 +241,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551315391445" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551601513726" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
@@ -375,14 +374,7 @@
       <workItem from="1551254019696" duration="596000" />
       <workItem from="1551313555339" duration="2416000" />
       <workItem from="1551530496344" duration="1210000" />
-      <workItem from="1551598836823" duration="2129000" />
-    </task>
-    <task id="LOCAL-00001" summary="删除了原来的文章">
-      <created>1547725344508</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1547725344508</updated>
+      <workItem from="1551598836823" duration="2505000" />
     </task>
     <task id="LOCAL-00002" summary="马飞翔">
       <created>1547805392119</created>
@@ -720,11 +712,18 @@
       <option name="project" value="LOCAL" />
       <updated>1551315373122</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="java的学习路线和自己的心得体会">
+      <created>1551601033918</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1551601033920</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43416000" />
+    <option name="totallyTimeSpent" value="43792000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -801,7 +800,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="加了几张图片" />
     <MESSAGE value="修改了一些东西." />
     <MESSAGE value="2019-01-21-Typora比较常用的语法" />
     <MESSAGE value="修改了些小地方" />
@@ -826,7 +824,8 @@
     <MESSAGE value="修改图片" />
     <MESSAGE value="修改about.html内容" />
     <MESSAGE value="修改封面" />
-    <option name="LAST_COMMIT_MESSAGE" value="修改封面" />
+    <MESSAGE value="java的学习路线和自己的心得体会" />
+    <option name="LAST_COMMIT_MESSAGE" value="java的学习路线和自己的心得体会" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/img/post-bg-js-version.jpg" />
@@ -968,8 +967,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2019-3-3-java学习之路.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="1368">
-            <caret line="76" column="6" lean-forward="true" selection-start-line="76" selection-start-column="6" selection-end-line="76" selection-end-column="6" />
+          <first_editor relative-caret-position="216">
+            <caret line="12" column="45" lean-forward="true" selection-start-line="12" selection-start-column="45" selection-end-line="12" selection-end-column="45" />
           </first_editor>
           <second_editor />
         </state>
