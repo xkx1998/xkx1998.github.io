@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="487602e8-7b9b-48a7-9bde-e104d5d48f8c" name="Default" comment="java的学习路线和自己的心得体会">
-      <change beforePath="$PROJECT_DIR$/_posts/2019-3-3-java学习之路.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-3-3-java学习之路.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -39,14 +39,14 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="md" value="1029" />
+          <entry key="md" value="1030" />
           <entry key="txt" value="71" />
           <entry key="yml" value="51" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Markdown" value="1029" />
+          <entry key="Markdown" value="1030" />
           <entry key="PLAIN_TEXT" value="71" />
           <entry key="YAML" value="51" />
         </counts>
@@ -68,8 +68,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2019-3-3-java学习之路.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="216">
-                <caret line="12" column="45" lean-forward="true" selection-start-line="12" selection-start-column="45" selection-end-line="12" selection-end-column="45" />
+              <first_editor relative-caret-position="252">
+                <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
               </first_editor>
               <second_editor />
             </state>
@@ -241,7 +241,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551601513726" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551601605236" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
@@ -374,21 +374,7 @@
       <workItem from="1551254019696" duration="596000" />
       <workItem from="1551313555339" duration="2416000" />
       <workItem from="1551530496344" duration="1210000" />
-      <workItem from="1551598836823" duration="2505000" />
-    </task>
-    <task id="LOCAL-00002" summary="马飞翔">
-      <created>1547805392119</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1547805392119</updated>
-    </task>
-    <task id="LOCAL-00003" summary="HQL和SQL的联系与区别(未完成)">
-      <created>1547913382571</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1547913382571</updated>
+      <workItem from="1551598836823" duration="2754000" />
     </task>
     <task id="LOCAL-00004" summary="删除了没用的文章">
       <created>1547913533448</created>
@@ -719,11 +705,25 @@
       <option name="project" value="LOCAL" />
       <updated>1551601033920</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="java的学习路线和自己的心得体会">
+      <created>1551601355034</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1551601355034</updated>
+    </task>
+    <task id="LOCAL-00052" summary="java的学习路线和自己的心得体会">
+      <created>1551601528358</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1551601528358</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43792000" />
+    <option name="totallyTimeSpent" value="44041000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -967,8 +967,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2019-3-3-java学习之路.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="216">
-            <caret line="12" column="45" lean-forward="true" selection-start-line="12" selection-start-column="45" selection-end-line="12" selection-end-column="45" />
+          <first_editor relative-caret-position="252">
+            <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
           </first_editor>
           <second_editor />
         </state>
