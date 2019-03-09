@@ -175,6 +175,7 @@ int size；
  * @return 返回 true 表示添加成功
  */
  public boolean add(E e) {
+     
     //检查当前底层数组容量，如果容量不够则进行扩容
     ensureCapacityInternal(size + 1);  // Increments modCount!!
     //将数组添加一个元素，size 加 1
