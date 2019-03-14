@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="487602e8-7b9b-48a7-9bde-e104d5d48f8c" name="Default" comment="2019-3-4的复习计划">
-      <change afterPath="$PROJECT_DIR$/_posts/2019-3-9-ArrayList源码分析.md" afterDir="false" />
+    <list default="true" id="487602e8-7b9b-48a7-9bde-e104d5d48f8c" name="Default" comment="2019-3-9-ArrayList源码分析">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-3-9-ArrayList源码分析.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-3-9-ArrayList源码分析.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,41 +15,44 @@
     <session id="-1385373482">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="4" />
           <entry key="project.open.time.16" value="1" />
           <entry key="project.open.time.35" value="1" />
           <entry key="project.open.time.43" value="1" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="html" value="2" />
-          <entry key="jpg" value="6" />
-          <entry key="md" value="6" />
+          <entry key="jpg" value="9" />
+          <entry key="md" value="7" />
+          <entry key="png" value="2" />
           <entry key="yml" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="HTML" value="2" />
-          <entry key="Image" value="6" />
-          <entry key="Markdown" value="6" />
+          <entry key="Image" value="11" />
+          <entry key="Markdown" value="7" />
           <entry key="YAML" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="md" value="1669" />
-          <entry key="txt" value="86" />
+          <entry key="md" value="2580" />
+          <entry key="txt" value="104" />
           <entry key="yml" value="51" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Markdown" value="1669" />
-          <entry key="PLAIN_TEXT" value="86" />
+          <entry key="JAVA" value="4" />
+          <entry key="Markdown" value="2576" />
+          <entry key="PLAIN_TEXT" value="104" />
           <entry key="YAML" value="51" />
         </counts>
       </usages-collector>
@@ -57,63 +60,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_config.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="6" column="56" selection-start-line="6" selection-start-column="56" selection-end-line="6" selection-end-column="56" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2019-3-3-java学习之路.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="90">
-                <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2019-1-21-Typora比较常用的语法.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="347">
-                <caret line="135" lean-forward="true" selection-start-line="135" selection-end-line="135" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2019-3-4-复习第1天计划.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="270">
-                <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_posts/2019-3-9-ArrayList源码分析.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="721">
-                <caret line="252" column="2" selection-start-line="252" selection-start-column="2" selection-end-line="252" selection-end-column="2" />
+              <first_editor relative-caret-position="3061">
+                <caret line="508" lean-forward="true" selection-start-line="508" selection-end-line="508" />
                 <folding>
                   <element signature="n#!!doc" expanded="true" />
                   <element signature="n#!!doc" expanded="true" />
                   <element signature="n#!!doc" expanded="true" />
                   <element signature="n#!!doc" expanded="true" />
                   <element signature="n#!!doc" expanded="true" />
+                  <element signature="n#!!doc" expanded="true" />
+                  <element signature="e#307#308#0" expanded="true" />
+                  <element signature="e#342#343#0" expanded="true" />
                 </folding>
               </first_editor>
               <second_editor />
@@ -238,8 +199,8 @@
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-11" />
     <option name="y" value="-11" />
-    <option name="width" value="1942" />
-    <option name="height" value="1042" />
+    <option name="width" value="1386" />
+    <option name="height" value="788" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -267,6 +228,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -279,18 +241,28 @@
               <item name="xkx1998.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="_posts" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="xkx1998.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xkx1998.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xkx1998.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xkx1998.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+              <item name="charlotte" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551620605740" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552555473965" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
@@ -424,21 +396,8 @@
       <workItem from="1551313555339" duration="2416000" />
       <workItem from="1551530496344" duration="1210000" />
       <workItem from="1551598836823" duration="5616000" />
-      <workItem from="1552119496010" duration="1574000" />
-    </task>
-    <task id="LOCAL-00007" summary="改错">
-      <created>1547915404732</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1547915404732</updated>
-    </task>
-    <task id="LOCAL-00008" summary="改错">
-      <created>1547915964889</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1547915964889</updated>
+      <workItem from="1552119496010" duration="2558000" />
+      <workItem from="1552546402863" duration="8898000" />
     </task>
     <task id="LOCAL-00009" summary="加了几张图片">
       <created>1547963032009</created>
@@ -769,16 +728,31 @@
       <option name="project" value="LOCAL" />
       <updated>1551620589434</updated>
     </task>
-    <option name="localTasksCounter" value="56" />
+    <task id="LOCAL-00056" summary="2019-3-9-ArrayList源码分析">
+      <created>1552121105719</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1552121105721</updated>
+    </task>
+    <task id="LOCAL-00057" summary="2019-3-9-ArrayList源码分析">
+      <created>1552121311181</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1552121311181</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48477000" />
+    <option name="totallyTimeSpent" value="58359000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31543118" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31996974" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -797,7 +771,7 @@
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.3293556" />
       <window_info anchor="bottom" id="Debug with VisualVM" order="10" />
       <window_info anchor="bottom" id="Terminal" order="11" />
-      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" weight="0.3295082" />
       <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -849,7 +823,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2019-01-21-Typora比较常用的语法" />
     <MESSAGE value="修改了些小地方" />
     <MESSAGE value="上传图片" />
     <MESSAGE value="2019-1-22-Zookeeper概念、原理、应用场景" />
@@ -874,11 +847,10 @@
     <MESSAGE value="修改封面" />
     <MESSAGE value="java的学习路线和自己的心得体会" />
     <MESSAGE value="2019-3-4的复习计划" />
-    <option name="LAST_COMMIT_MESSAGE" value="2019-3-4的复习计划" />
+    <MESSAGE value="2019-3-9-ArrayList源码分析" />
+    <option name="LAST_COMMIT_MESSAGE" value="2019-3-9-ArrayList源码分析" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/img/post-bg-coffee.jpeg" />
-    <entry file="file://$PROJECT_DIR$/img/post-bg-map.jpg" />
     <entry file="file://$PROJECT_DIR$/img/post-bg-re-vs-ng2.jpg" />
     <entry file="file://$PROJECT_DIR$/img/tag-bg-o.jpg" />
     <entry file="file://$PROJECT_DIR$/_layouts/default.html">
@@ -894,9 +866,6 @@
           <caret line="1" column="11" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/charlotte/57d8e5583272d.jpg">
-      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/img/charlotte/57d8e5540c95f.jpg">
       <provider selected="true" editor-type-id="images" />
@@ -984,13 +953,7 @@
     <entry file="file://$PROJECT_DIR$/img/2019-2-18-HBase环境搭建及初识/ZK版本.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/charlotte/005.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/img/charlotte/charlotte.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/charlotte/b2f68e7ebd6314a8358661a765ca9095527eeee1.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/img/2019-2-14-Java基础复习/23.jpg">
@@ -1013,6 +976,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-1-21-Typora比较常用的语法.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="2430">
+            <caret line="135" selection-start-line="135" selection-end-line="135" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2019-3-4-复习第1天计划.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1023,27 +996,35 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-1-21-Typora比较常用的语法.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="347">
-            <caret line="135" lean-forward="true" selection-start-line="135" selection-end-line="135" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/img/apple-touch-icon.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/charlotte/005.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/charlotte/57d8e5583272d.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/charlotte/b2f68e7ebd6314a8358661a765ca9095527eeee1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/2019-2-26-JVM知识点/新生代 Parallel Scavenge 和年老代 Parallel Old 收集器搭配.png">
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2019-3-9-ArrayList源码分析.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="721">
-            <caret line="252" column="2" selection-start-line="252" selection-start-column="2" selection-end-line="252" selection-end-column="2" />
+          <first_editor relative-caret-position="3061">
+            <caret line="508" lean-forward="true" selection-start-line="508" selection-end-line="508" />
             <folding>
               <element signature="n#!!doc" expanded="true" />
               <element signature="n#!!doc" expanded="true" />
               <element signature="n#!!doc" expanded="true" />
               <element signature="n#!!doc" expanded="true" />
               <element signature="n#!!doc" expanded="true" />
+              <element signature="n#!!doc" expanded="true" />
+              <element signature="e#307#308#0" expanded="true" />
+              <element signature="e#342#343#0" expanded="true" />
             </folding>
           </first_editor>
           <second_editor />
