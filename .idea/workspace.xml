@@ -1,9 +1,103 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="487602e8-7b9b-48a7-9bde-e104d5d48f8c" name="Default" comment="2019-3-9-ArrayList源码分析">
+    <list default="true" id="487602e8-7b9b-48a7-9bde-e104d5d48f8c" name="Default" comment="ArrayList源码分析补充">
+      <change afterPath="$PROJECT_DIR$/_posts/2019-3-14-Java内存区域与内存溢出异常.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/2019-3-14-Java内存区域与内存溢出异常/JVM内存模型.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-3-9-ArrayList源码分析.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-3-9-ArrayList源码分析.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-1-21-Typora比较常用的语法.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-1-21-Typora比较常用的语法.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2019-1-22-Zookeeper概念、原理、应用场景/9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2019-1-22-Zookeeper概念、原理、应用场景/Zookeeper同步流程.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2019-1-22-Zookeeper概念、原理、应用场景/zookeeper是如何选取主leader的1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2019-1-22-Zookeeper概念、原理、应用场景/zookeeper是如何选取主leader的2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2019-1-22-Zookeeper概念、原理、应用场景/获取分布式锁的流程1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2019-1-22-Zookeeper概念、原理、应用场景/获取分布式锁的流程2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2019-1-23-Zookeeper环境的搭建以及简单测试/6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2019-1-23-Zookeeper环境的搭建以及简单测试/ZK目录路径修改.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2019-1-23-Zookeeper环境的搭建以及简单测试/ZK配置文件内容.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2019-1-23-Zookeeper环境的搭建以及简单测试/ZK集群启动失败.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2019-1-23-Zookeeper环境的搭建以及简单测试/ZK集群成功启动标志.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2019-1-23-Zookeeper环境的搭建以及简单测试/ZK集群配置添加各节点信息.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2019-1-23-Zookeeper环境的搭建以及简单测试/Zookeeper解压目录.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2019-1-23-Zookeeper环境的搭建以及简单测试/删除节点 follower接收消息.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2019-1-24-编译原理绪论/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2019-1-24-编译原理绪论/三地址指令的四元式表达.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2019-1-24-编译原理绪论/中间代码生成.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2019-1-24-编译原理绪论/分析树.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2019-1-24-编译原理绪论/常用的三地址指令.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2019-1-24-编译原理绪论/编译器的结构.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2019-1-24-编译原理绪论/翻译的过程.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2019-1-24-编译原理绪论/词法分析.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2019-1-24-编译原理绪论/语义分析.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2019-1-24-编译原理绪论/语法分析.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2019-1-25-编译原理——语言及其文法/0型文法.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2019-1-25-编译原理——语言及其文法/1型文法.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2019-1-25-编译原理——语言及其文法/24.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2019-1-25-编译原理——语言及其文法/2型文法.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2019-1-25-编译原理——语言及其文法/3型文法.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2019-1-25-编译原理——语言及其文法/产生式的简写.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2019-1-25-编译原理——语言及其文法/句子和句型的例子.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2019-1-25-编译原理——语言及其文法/四种文法之间的关系.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2019-1-25-编译原理——语言及其文法/推导和归约.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2019-1-25-编译原理——语言及其文法/文法的表述形式.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2019-1-28-分布式事务初识/18.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2019-1-29-记一次处理ZooKeeper和Kafka的问题/22.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2019-1-29-记一次处理ZooKeeper和Kafka的问题/kafka发送消息报错.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2019-1-29-记一次处理ZooKeeper和Kafka的问题/kafka启动brokers已被注册.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2019-1-30-编译原理——文法转换/13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2019-1-30-编译原理——文法转换/例子1回溯.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2019-1-30-编译原理——文法转换/例子2无限循环.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2019-1-30-编译原理——文法转换/提取左公因子.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2019-1-30-编译原理——文法转换/提取左公因子算法.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2019-1-30-编译原理——文法转换/消除左递归算法伪代码.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2019-1-30-编译原理——文法转换/消除直接左递归的一般形式.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2019-1-30-编译原理——文法转换/直接消除左递归例子.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2019-1-30-编译原理——语法分析/16.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2019-1-30-编译原理——语法分析/最右推导例子.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2019-1-30-编译原理——语法分析/最左推导例子.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2019-1-30-编译原理——语法分析/最左推导和最右推导的唯一性.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2019-1-30-编译原理——语法分析/自顶向下分析例子.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2019-1-30-编译原理——语法分析/递归下降分析伪代码.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2019-2-14-Java基础复习/23.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2019-2-18-HBase环境搭建及初识/20.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2019-2-18-HBase环境搭建及初识/HBase解压.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2019-2-18-HBase环境搭建及初识/ZK版本.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2019-2-18-HBase环境搭建及初识/hbase自带ZKjar包版本.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2019-2-18-HBase环境搭建及初识/主节点和从节点ClusterID不一致.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2019-2-18-HBase环境搭建及初识/查看datanode磁盘情况.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2019-2-18-HBase环境搭建及初识/查看表数据.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2019-2-18-HBase环境搭建及初识/没有开启ZK启动hbase失败.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2019-2-18-HBase环境搭建及初识/界面访问不了.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2019-2-2-hadoop环境搭建/25.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2019-2-2-hadoop环境搭建/master文件.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2019-2-2-hadoop环境搭建/slavers文件.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2019-2-2-hadoop环境搭建/修改JAVA_HOME.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2019-2-2-hadoop环境搭建/修改core-site.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2019-2-2-hadoop环境搭建/修改hdfs-site.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2019-2-2-hadoop环境搭建/修改mapred-site文件.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2019-2-2-hadoop环境搭建/修改yarn-site文件.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2019-2-2-hive深入使用/21.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2019-2-2-hive深入使用/hiveserver2使用聚合操作报错.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2019-2-2-hive环境的搭建及运行/16.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2019-2-2-hive环境的搭建及运行/hive启动mysql缺失授权报错.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2019-2-2-hive环境的搭建及运行/hive启动文件匹配缺失报错.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2019-2-2-hive环境的搭建及运行/hive成功运行.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2019-2-2-hive环境的搭建及运行/导入本地数据到hive.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2019-2-2-hive环境的搭建及运行/显示当前数据库名称.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2019-2-2-hive环境的搭建及运行/没有开启hadoop报错.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2019-2-26-JVM知识点/28.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2019-2-26-JVM知识点/CMS 收集器工作过程.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2019-2-26-JVM知识点/JVM类加载过程.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2019-2-26-JVM知识点/Java内存模型.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2019-2-26-JVM知识点/双亲委派原则.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2019-2-26-JVM知识点/堆结构.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2019-2-26-JVM知识点/复制算法.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2019-2-26-JVM知识点/新生代 Parallel Scavenge 和年老代 Parallel Old 收集器搭配.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2019-2-26-JVM知识点/新生代 Parallel 和老年代serial old 搭配使用.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2019-2-26-JVM知识点/新生代serial和老年代serial old搭配使用.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2019-2-26-JVM知识点/标记整理算法.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2019-2-26-JVM知识点/标记清除算法.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/2019-2-4-30分钟学会shell/17.jpg" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,7 +122,7 @@
         <counts>
           <entry key="html" value="2" />
           <entry key="jpg" value="9" />
-          <entry key="md" value="7" />
+          <entry key="md" value="9" />
           <entry key="png" value="2" />
           <entry key="yml" value="2" />
         </counts>
@@ -37,22 +131,22 @@
         <counts>
           <entry key="HTML" value="2" />
           <entry key="Image" value="11" />
-          <entry key="Markdown" value="7" />
+          <entry key="Markdown" value="9" />
           <entry key="YAML" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="md" value="2580" />
-          <entry key="txt" value="104" />
+          <entry key="md" value="2812" />
+          <entry key="txt" value="108" />
           <entry key="yml" value="51" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JAVA" value="4" />
-          <entry key="Markdown" value="2576" />
-          <entry key="PLAIN_TEXT" value="104" />
+          <entry key="Markdown" value="2808" />
+          <entry key="PLAIN_TEXT" value="108" />
           <entry key="YAML" value="51" />
         </counts>
       </usages-collector>
@@ -60,12 +154,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2019-3-9-ArrayList源码分析.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="3061">
-                <caret line="508" lean-forward="true" selection-start-line="508" selection-end-line="508" />
+                <caret line="508" selection-start-line="508" selection-end-line="508" />
                 <folding>
                   <element signature="n#!!doc" expanded="true" />
                   <element signature="n#!!doc" expanded="true" />
@@ -73,9 +167,31 @@
                   <element signature="n#!!doc" expanded="true" />
                   <element signature="n#!!doc" expanded="true" />
                   <element signature="n#!!doc" expanded="true" />
-                  <element signature="e#307#308#0" expanded="true" />
-                  <element signature="e#342#343#0" expanded="true" />
                 </folding>
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-3-14-Java内存区域与内存溢出异常.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="437">
+                <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-1-21-Typora比较常用的语法.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="293">
+                <caret line="99" column="1" lean-forward="true" selection-start-line="99" selection-start-column="1" selection-end-line="99" selection-end-column="1" />
               </first_editor>
               <second_editor />
             </state>
@@ -167,8 +283,9 @@
         <option value="$PROJECT_DIR$/_posts/2019-3-4-复习第1天.md" />
         <option value="$PROJECT_DIR$/_posts/2019-3-3-java学习之路.md" />
         <option value="$PROJECT_DIR$/_posts/2019-3-4-复习第1天计划.md" />
-        <option value="$PROJECT_DIR$/_posts/2019-1-21-Typora比较常用的语法.md" />
         <option value="$PROJECT_DIR$/_posts/2019-3-9-ArrayList源码分析.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-1-21-Typora比较常用的语法.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-3-14-Java内存区域与内存溢出异常.md" />
       </list>
     </option>
   </component>
@@ -250,7 +367,7 @@
               <item name="xkx1998.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="xkx1998.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="img" type="462c0819:PsiDirectoryNode" />
-              <item name="charlotte" type="462c0819:PsiDirectoryNode" />
+              <item name="2019-3-14-Java内存区域与内存溢出异常" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -262,21 +379,21 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552555473965" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552557219829" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\IDEA_project\zhouyimian.github.io\_posts" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\IDEA web\xkx1998.github.io\img\2019-3-14-Java内存区域与内存溢出异常" />
       <recent name="E:\IDEA web\xkx1998.github.io\_posts" />
       <recent name="E:\IDEA web\xkx1998.github.io\img\charlotte" />
       <recent name="E:\IDEA web\xkx1998.github.io\img" />
       <recent name="D:\IDEA_project\zhouyimian.github.io\img\2019-2-26-JVM知识点" />
-      <recent name="D:\IDEA_project\zhouyimian.github.io\img" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\IDEA_project\zhouyimian.github.io\_posts" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -397,14 +514,7 @@
       <workItem from="1551530496344" duration="1210000" />
       <workItem from="1551598836823" duration="5616000" />
       <workItem from="1552119496010" duration="2558000" />
-      <workItem from="1552546402863" duration="8898000" />
-    </task>
-    <task id="LOCAL-00009" summary="加了几张图片">
-      <created>1547963032009</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1547963032010</updated>
+      <workItem from="1552546402863" duration="10411000" />
     </task>
     <task id="LOCAL-00010" summary="修改了一些东西.">
       <created>1547964426845</created>
@@ -742,11 +852,18 @@
       <option name="project" value="LOCAL" />
       <updated>1552121311181</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="ArrayList源码分析补充">
+      <created>1552555535844</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1552555535845</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="58359000" />
+    <option name="totallyTimeSpent" value="59872000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -823,7 +940,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="修改了些小地方" />
     <MESSAGE value="上传图片" />
     <MESSAGE value="2019-1-22-Zookeeper概念、原理、应用场景" />
     <MESSAGE value="2019-1-23-Zookeeper环境的搭建以及简单测试" />
@@ -848,10 +964,10 @@
     <MESSAGE value="java的学习路线和自己的心得体会" />
     <MESSAGE value="2019-3-4的复习计划" />
     <MESSAGE value="2019-3-9-ArrayList源码分析" />
-    <option name="LAST_COMMIT_MESSAGE" value="2019-3-9-ArrayList源码分析" />
+    <MESSAGE value="ArrayList源码分析补充" />
+    <option name="LAST_COMMIT_MESSAGE" value="ArrayList源码分析补充" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/img/post-bg-re-vs-ng2.jpg" />
     <entry file="file://$PROJECT_DIR$/img/tag-bg-o.jpg" />
     <entry file="file://$PROJECT_DIR$/_layouts/default.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -976,16 +1092,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-1-21-Typora比较常用的语法.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="2430">
-            <caret line="135" selection-start-line="135" selection-end-line="135" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2019-3-4-复习第1天计划.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1015,7 +1121,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="3061">
-            <caret line="508" lean-forward="true" selection-start-line="508" selection-end-line="508" />
+            <caret line="508" selection-start-line="508" selection-end-line="508" />
             <folding>
               <element signature="n#!!doc" expanded="true" />
               <element signature="n#!!doc" expanded="true" />
@@ -1023,9 +1129,27 @@
               <element signature="n#!!doc" expanded="true" />
               <element signature="n#!!doc" expanded="true" />
               <element signature="n#!!doc" expanded="true" />
-              <element signature="e#307#308#0" expanded="true" />
-              <element signature="e#342#343#0" expanded="true" />
             </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-1-21-Typora比较常用的语法.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="293">
+            <caret line="99" column="1" lean-forward="true" selection-start-line="99" selection-start-column="1" selection-end-line="99" selection-end-column="1" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-3-14-Java内存区域与内存溢出异常.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="437">
+            <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
           </first_editor>
           <second_editor />
         </state>
