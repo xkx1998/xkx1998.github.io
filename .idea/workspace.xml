@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="487602e8-7b9b-48a7-9bde-e104d5d48f8c" name="Default" comment="复习插入和希尔排序">
+      <change afterPath="$PROJECT_DIR$/img/2019-3-14-Java内存区域与内存溢出异常/20170524200028524.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-3-14-Java内存区域与内存溢出异常.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-3-14-Java内存区域与内存溢出异常.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,13 +16,14 @@
     <session id="-1385373482">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="5" />
+          <entry key="project.closed" value="6" />
           <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.19" value="1" />
           <entry key="project.open.time.35" value="1" />
           <entry key="project.open.time.43" value="1" />
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.8" value="2" />
-          <entry key="project.opened" value="6" />
+          <entry key="project.opened" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -42,7 +45,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="md" value="2994" />
+          <entry key="md" value="3599" />
           <entry key="txt" value="160" />
           <entry key="yml" value="51" />
         </counts>
@@ -50,7 +53,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JAVA" value="5" />
-          <entry key="Markdown" value="2989" />
+          <entry key="Markdown" value="3594" />
           <entry key="PLAIN_TEXT" value="160" />
           <entry key="YAML" value="51" />
         </counts>
@@ -75,8 +78,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2019-3-14-Java内存区域与内存溢出异常.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="437">
-                <caret line="59" selection-start-line="59" selection-end-line="59" />
+              <first_editor relative-caret-position="347">
+                <caret line="146" lean-forward="true" selection-start-line="146" selection-end-line="146" />
               </first_editor>
               <second_editor />
             </state>
@@ -88,7 +91,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="1278">
-                <caret line="71" column="39" lean-forward="true" selection-start-line="71" selection-start-column="39" selection-end-line="71" selection-end-column="39" />
+                <caret line="71" column="39" selection-start-line="71" selection-start-column="39" selection-end-line="71" selection-end-column="39" />
               </first_editor>
               <second_editor />
             </state>
@@ -99,8 +102,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2019-1-21-Typora比较常用的语法.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="1728">
-                <caret line="96" column="18" selection-start-line="96" selection-start-column="18" selection-end-line="96" selection-end-column="18" />
+              <first_editor relative-caret-position="779">
+                <caret line="108" column="3" selection-start-line="108" selection-start-column="3" selection-end-line="108" selection-end-column="3" />
               </first_editor>
               <second_editor />
             </state>
@@ -194,8 +197,8 @@
         <option value="$PROJECT_DIR$/_posts/2019-3-4-复习第1天计划.md" />
         <option value="$PROJECT_DIR$/_posts/2019-3-9-ArrayList源码分析.md" />
         <option value="$PROJECT_DIR$/_posts/2019-1-21-Typora比较常用的语法.md" />
-        <option value="$PROJECT_DIR$/_posts/2019-3-14-Java内存区域与内存溢出异常.md" />
         <option value="$PROJECT_DIR$/_posts/2019-3-16-各种常见排序的复习.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-3-14-Java内存区域与内存溢出异常.md" />
       </list>
     </option>
   </component>
@@ -255,7 +258,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -268,31 +270,43 @@
               <item name="xkx1998.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="_posts" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="xkx1998.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xkx1998.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xkx1998.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xkx1998.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+              <item name="2019-3-14-Java内存区域与内存溢出异常" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552557835775" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552838248414" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\IDEA_project\zhouyimian.github.io\_posts" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\IDEA web\xkx1998.github.io\_posts" />
       <recent name="E:\IDEA web\xkx1998.github.io\img\2019-3-14-Java内存区域与内存溢出异常" />
+      <recent name="E:\IDEA web\xkx1998.github.io\_posts" />
       <recent name="E:\IDEA web\xkx1998.github.io\img\charlotte" />
       <recent name="E:\IDEA web\xkx1998.github.io\img" />
       <recent name="D:\IDEA_project\zhouyimian.github.io\img\2019-2-26-JVM知识点" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\IDEA_project\zhouyimian.github.io\_posts" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -414,14 +428,8 @@
       <workItem from="1551598836823" duration="5616000" />
       <workItem from="1552119496010" duration="2558000" />
       <workItem from="1552546402863" duration="11808000" />
-      <workItem from="1552704082251" duration="4989000" />
-    </task>
-    <task id="LOCAL-00013" summary="上传图片">
-      <created>1548086506977</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1548086506977</updated>
+      <workItem from="1552704082251" duration="5612000" />
+      <workItem from="1552833747106" duration="4496000" />
     </task>
     <task id="LOCAL-00014" summary="2019-1-22-Zookeeper概念、原理、应用场景">
       <created>1548170066762</created>
@@ -759,17 +767,24 @@
       <option name="project" value="LOCAL" />
       <updated>1552708591679</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary="复习插入和希尔排序">
+      <created>1552711538578</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1552711538578</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="66258000" />
+    <option name="totallyTimeSpent" value="71377000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32526475" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.33055976" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -1008,21 +1023,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-1-21-Typora比较常用的语法.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2019-3-16-各种常见排序的复习.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="1728">
-            <caret line="96" column="18" selection-start-line="96" selection-start-column="18" selection-end-line="96" selection-end-column="18" />
+          <first_editor relative-caret-position="1278">
+            <caret line="71" column="39" selection-start-line="71" selection-start-column="39" selection-end-line="71" selection-end-column="39" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-3-16-各种常见排序的复习.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2019-1-21-Typora比较常用的语法.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="1278">
-            <caret line="71" column="39" lean-forward="true" selection-start-line="71" selection-start-column="39" selection-end-line="71" selection-end-column="39" />
+          <first_editor relative-caret-position="779">
+            <caret line="108" column="3" selection-start-line="108" selection-start-column="3" selection-end-line="108" selection-end-column="3" />
           </first_editor>
           <second_editor />
         </state>
@@ -1031,8 +1046,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2019-3-14-Java内存区域与内存溢出异常.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="437">
-            <caret line="59" selection-start-line="59" selection-end-line="59" />
+          <first_editor relative-caret-position="347">
+            <caret line="146" lean-forward="true" selection-start-line="146" selection-end-line="146" />
           </first_editor>
           <second_editor />
         </state>
