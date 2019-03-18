@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="487602e8-7b9b-48a7-9bde-e104d5d48f8c" name="Default" comment="复习插入和希尔排序">
-      <change afterPath="$PROJECT_DIR$/img/2019-3-14-Java内存区域与内存溢出异常/20170524200028524.png" afterDir="false" />
+    <list default="true" id="487602e8-7b9b-48a7-9bde-e104d5d48f8c" name="Default" comment="内存溢出异常笔记">
+      <change afterPath="$PROJECT_DIR$/_posts/2019-3-18-java基础之反射.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-3-14-Java内存区域与内存溢出异常.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-3-14-Java内存区域与内存溢出异常.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,21 +15,21 @@
     <session id="-1385373482">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="6" />
+          <entry key="project.closed" value="7" />
           <entry key="project.open.time.16" value="1" />
           <entry key="project.open.time.19" value="1" />
           <entry key="project.open.time.35" value="1" />
           <entry key="project.open.time.43" value="1" />
-          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.7" value="2" />
           <entry key="project.open.time.8" value="2" />
-          <entry key="project.opened" value="7" />
+          <entry key="project.opened" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="html" value="2" />
           <entry key="jpg" value="9" />
-          <entry key="md" value="10" />
+          <entry key="md" value="12" />
           <entry key="png" value="2" />
           <entry key="yml" value="2" />
         </counts>
@@ -39,22 +38,22 @@
         <counts>
           <entry key="HTML" value="2" />
           <entry key="Image" value="11" />
-          <entry key="Markdown" value="10" />
+          <entry key="Markdown" value="12" />
           <entry key="YAML" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="md" value="3599" />
-          <entry key="txt" value="160" />
+          <entry key="md" value="3968" />
+          <entry key="txt" value="168" />
           <entry key="yml" value="51" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JAVA" value="5" />
-          <entry key="Markdown" value="3594" />
-          <entry key="PLAIN_TEXT" value="160" />
+          <entry key="Markdown" value="3963" />
+          <entry key="PLAIN_TEXT" value="168" />
           <entry key="YAML" value="51" />
         </counts>
       </usages-collector>
@@ -74,12 +73,36 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2019-3-14-Java内存区域与内存溢出异常.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="347">
-                <caret line="146" lean-forward="true" selection-start-line="146" selection-end-line="146" />
+              <first_editor relative-caret-position="366">
+                <caret line="150" column="31" selection-start-line="150" selection-start-column="31" selection-end-line="150" selection-end-column="31" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-3-3-java学习之路.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="36">
+                <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-3-18-java基础之反射.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="523">
+                <caret line="350" column="3" lean-forward="true" selection-start-line="350" selection-start-column="3" selection-end-line="350" selection-end-column="3" />
               </first_editor>
               <second_editor />
             </state>
@@ -102,7 +125,7 @@
         <entry file="file://$PROJECT_DIR$/_posts/2019-1-21-Typora比较常用的语法.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="779">
+              <first_editor relative-caret-position="1944">
                 <caret line="108" column="3" selection-start-line="108" selection-start-column="3" selection-end-line="108" selection-end-column="3" />
               </first_editor>
               <second_editor />
@@ -199,6 +222,7 @@
         <option value="$PROJECT_DIR$/_posts/2019-1-21-Typora比较常用的语法.md" />
         <option value="$PROJECT_DIR$/_posts/2019-3-16-各种常见排序的复习.md" />
         <option value="$PROJECT_DIR$/_posts/2019-3-14-Java内存区域与内存溢出异常.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-3-18-java基础之反射.md" />
       </list>
     </option>
   </component>
@@ -285,28 +309,28 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552838328148" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552838379909" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\IDEA_project\zhouyimian.github.io\_posts" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\IDEA web\xkx1998.github.io\img\2019-3-14-Java内存区域与内存溢出异常" />
       <recent name="E:\IDEA web\xkx1998.github.io\_posts" />
+      <recent name="E:\IDEA web\xkx1998.github.io\img\2019-3-14-Java内存区域与内存溢出异常" />
       <recent name="E:\IDEA web\xkx1998.github.io\img\charlotte" />
       <recent name="E:\IDEA web\xkx1998.github.io\img" />
       <recent name="D:\IDEA_project\zhouyimian.github.io\img\2019-2-26-JVM知识点" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\IDEA_project\zhouyimian.github.io\_posts" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -429,21 +453,8 @@
       <workItem from="1552119496010" duration="2558000" />
       <workItem from="1552546402863" duration="11808000" />
       <workItem from="1552704082251" duration="5612000" />
-      <workItem from="1552833747106" duration="4496000" />
-    </task>
-    <task id="LOCAL-00014" summary="2019-1-22-Zookeeper概念、原理、应用场景">
-      <created>1548170066762</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1548170066762</updated>
-    </task>
-    <task id="LOCAL-00015" summary="2019-1-22-Zookeeper概念、原理、应用场景">
-      <created>1548170097931</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1548170097931</updated>
+      <workItem from="1552833747106" duration="5219000" />
+      <workItem from="1552874091293" duration="4739000" />
     </task>
     <task id="LOCAL-00016" summary="2019-1-22-Zookeeper概念、原理、应用场景">
       <created>1548170803465</created>
@@ -774,17 +785,31 @@
       <option name="project" value="LOCAL" />
       <updated>1552711538578</updated>
     </task>
-    <option name="localTasksCounter" value="63" />
+    <task id="LOCAL-00063" summary="复习插入和希尔排序">
+      <created>1552838336512</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1552838336514</updated>
+    </task>
+    <task id="LOCAL-00064" summary="内存溢出异常笔记">
+      <created>1552838368081</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1552838368081</updated>
+    </task>
+    <option name="localTasksCounter" value="65" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="71377000" />
+    <option name="totallyTimeSpent" value="76839000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.33055976" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.33585477" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -855,7 +880,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2019-01-23-Zookeeper环境的搭建以及简单测试" />
     <MESSAGE value="2019-01-24-编译原理绪论" />
     <MESSAGE value="删了些图片" />
     <MESSAGE value="插入数学符号和公式" />
@@ -880,16 +904,10 @@
     <MESSAGE value="Java内存区域与内存溢出异常" />
     <MESSAGE value="Java内存区域与内存溢出异常修改1" />
     <MESSAGE value="复习插入和希尔排序" />
-    <option name="LAST_COMMIT_MESSAGE" value="复习插入和希尔排序" />
+    <MESSAGE value="内存溢出异常笔记" />
+    <option name="LAST_COMMIT_MESSAGE" value="内存溢出异常笔记" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_layouts/default.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="178">
-          <caret line="15" column="29" lean-forward="true" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pwa/manifest.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="27">
@@ -980,16 +998,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-3-3-java学习之路.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="90">
-            <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2019-3-4-复习第1天计划.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1036,7 +1044,7 @@
     <entry file="file://$PROJECT_DIR$/_posts/2019-1-21-Typora比较常用的语法.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="779">
+          <first_editor relative-caret-position="1944">
             <caret line="108" column="3" selection-start-line="108" selection-start-column="3" selection-end-line="108" selection-end-column="3" />
           </first_editor>
           <second_editor />
@@ -1046,8 +1054,28 @@
     <entry file="file://$PROJECT_DIR$/_posts/2019-3-14-Java内存区域与内存溢出异常.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="347">
-            <caret line="146" lean-forward="true" selection-start-line="146" selection-end-line="146" />
+          <first_editor relative-caret-position="366">
+            <caret line="150" column="31" selection-start-line="150" selection-start-column="31" selection-end-line="150" selection-end-column="31" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-3-3-java学习之路.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="36">
+            <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-3-18-java基础之反射.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="523">
+            <caret line="350" column="3" lean-forward="true" selection-start-line="350" selection-start-column="3" selection-end-line="350" selection-end-column="3" />
           </first_editor>
           <second_editor />
         </state>
