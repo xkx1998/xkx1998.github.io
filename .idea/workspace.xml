@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="487602e8-7b9b-48a7-9bde-e104d5d48f8c" name="Default" comment="类的加载机制和双亲委派模型">
-      <change afterPath="$PROJECT_DIR$/_posts/2019-3-27-Spring Ioc.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/1553672536(1).jpg" afterDir="false" />
+    <list default="true" id="487602e8-7b9b-48a7-9bde-e104d5d48f8c" name="Default" comment="Ioc和装配Bean的三种方式">
+      <change afterPath="$PROJECT_DIR$/_posts/2019-3-27-Java并发编程艺术学习笔记(一).md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2019-3-27-Java并发编程艺术学习笔记(二).md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/20151219193538740.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/20151219194411123.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/20151219195145118.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/20151220094122284.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,7 +20,7 @@
     <session id="-1385373482">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="11" />
+          <entry key="project.closed" value="12" />
           <entry key="project.open.time.16" value="1" />
           <entry key="project.open.time.19" value="1" />
           <entry key="project.open.time.35" value="1" />
@@ -24,16 +28,16 @@
           <entry key="project.open.time.43" value="1" />
           <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.51" value="1" />
-          <entry key="project.open.time.7" value="3" />
+          <entry key="project.open.time.7" value="4" />
           <entry key="project.open.time.8" value="2" />
-          <entry key="project.opened" value="12" />
+          <entry key="project.opened" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="html" value="2" />
           <entry key="jpg" value="9" />
-          <entry key="md" value="19" />
+          <entry key="md" value="22" />
           <entry key="png" value="2" />
           <entry key="yml" value="2" />
         </counts>
@@ -42,22 +46,22 @@
         <counts>
           <entry key="HTML" value="2" />
           <entry key="Image" value="11" />
-          <entry key="Markdown" value="19" />
+          <entry key="Markdown" value="22" />
           <entry key="YAML" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="md" value="8709" />
-          <entry key="txt" value="223" />
+          <entry key="md" value="9500" />
+          <entry key="txt" value="253" />
           <entry key="yml" value="51" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="9" />
-          <entry key="Markdown" value="8700" />
-          <entry key="PLAIN_TEXT" value="223" />
+          <entry key="JAVA" value="10" />
+          <entry key="Markdown" value="9490" />
+          <entry key="PLAIN_TEXT" value="253" />
           <entry key="YAML" value="51" />
         </counts>
       </usages-collector>
@@ -66,34 +70,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2019-3-9-ArrayList源码分析.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="72">
-                <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2019-3-20-LinkedList源码分析.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="3528">
-                <caret line="196" selection-start-line="196" selection-end-line="196" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2019-3-20-垃圾收集器和内存分配策略.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="3440">
+              <first_editor relative-caret-position="5634">
                 <caret line="313" selection-start-line="313" selection-end-line="313" />
               </first_editor>
               <second_editor />
@@ -105,7 +85,7 @@
         <entry file="file://$PROJECT_DIR$/_posts/2019-3-26-双亲委派模型.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="653">
+              <first_editor relative-caret-position="990">
                 <caret line="55" column="21" selection-start-line="55" selection-start-column="21" selection-end-line="55" selection-end-column="21" />
               </first_editor>
               <second_editor />
@@ -113,27 +93,27 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2019-3-27-Spring Ioc.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="1913">
-                <caret line="234" column="24" selection-start-line="234" selection-start-column="24" selection-end-line="234" selection-end-column="24" />
+              <first_editor relative-caret-position="401">
+                <caret line="251" selection-start-line="251" selection-end-line="251" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-3-27-Java并发编程艺术学习笔记(二).md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="365">
+                <caret line="107" lean-forward="true" selection-start-line="107" selection-end-line="107" />
                 <folding>
-                  <element signature="e#138#139#0" expanded="true" />
-                  <element signature="e#166#167#0" expanded="true" />
-                  <element signature="e#205#206#0" expanded="true" />
-                  <element signature="e#230#231#0" expanded="true" />
-                  <element signature="e#203#204#0" expanded="true" />
-                  <element signature="e#234#235#0" expanded="true" />
-                  <element signature="e#112#113#0" expanded="true" />
-                  <element signature="e#140#141#0" expanded="true" />
-                  <element signature="e#179#180#0" expanded="true" />
-                  <element signature="e#204#205#0" expanded="true" />
-                  <element signature="e#108#109#0" expanded="true" />
-                  <element signature="e#150#151#0" expanded="true" />
-                  <element signature="e#200#201#0" expanded="true" />
-                  <element signature="e#231#232#0" expanded="true" />
+                  <element signature="n#!!doc" expanded="true" />
+                  <element signature="n#!!doc" expanded="true" />
                 </folding>
               </first_editor>
               <second_editor />
@@ -299,6 +279,8 @@
         <option value="$PROJECT_DIR$/_posts/2019-3-25-类的加载机制.md" />
         <option value="$PROJECT_DIR$/_posts/2019-3-26-双亲委派模型.md" />
         <option value="$PROJECT_DIR$/_posts/2019-3-27-Spring Ioc.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-3-27-Java并发编程艺术学习笔记(一).md" />
+        <option value="$PROJECT_DIR$/_posts/2019-3-27-Java并发编程艺术学习笔记(二).md" />
       </list>
     </option>
   </component>
@@ -386,21 +368,21 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553674457722" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553701968594" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\IDEA_project\zhouyimian.github.io\_posts" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\IDEA web\xkx1998.github.io\img" />
       <recent name="E:\IDEA web\xkx1998.github.io\_posts" />
+      <recent name="E:\IDEA web\xkx1998.github.io\img" />
       <recent name="E:\IDEA web\xkx1998.github.io\img\2019-3-25-类的加载机制" />
       <recent name="E:\IDEA web\xkx1998.github.io\img\2019-3-20-LinkedList" />
       <recent name="E:\IDEA web\xkx1998.github.io\img\2019-3-14-Java内存区域与内存溢出异常" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\IDEA_project\zhouyimian.github.io\_posts" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -528,14 +510,8 @@
       <workItem from="1553001096741" duration="2674000" />
       <workItem from="1553087765907" duration="7460000" />
       <workItem from="1553307194009" duration="6282000" />
-      <workItem from="1553527290065" duration="20921000" />
-    </task>
-    <task id="LOCAL-00023" summary="2019-01-25-编译原理——语言及其文法">
-      <created>1548584471657</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1548584471657</updated>
+      <workItem from="1553527290065" duration="21233000" />
+      <workItem from="1553690348677" duration="6100000" />
     </task>
     <task id="LOCAL-00024" summary="2019-01-25-编译原理——语言及其文法">
       <created>1548585196513</created>
@@ -873,17 +849,24 @@
       <option name="project" value="LOCAL" />
       <updated>1553606088150</updated>
     </task>
-    <option name="localTasksCounter" value="72" />
+    <task id="LOCAL-00072" summary="Ioc和装配Bean的三种方式">
+      <created>1553674497377</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1553674497378</updated>
+    </task>
+    <option name="localTasksCounter" value="73" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="116162000" />
+    <option name="totallyTimeSpent" value="122574000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3570348" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3623298" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -954,7 +937,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2019-01-29-记一次处理ZooKeeper和Kafka的问题" />
     <MESSAGE value="2019-01-30-编译原理——语法分析" />
     <MESSAGE value="2019-01-30-编译原理——文法转换" />
     <MESSAGE value="2019-2-2-hadoop环境搭建" />
@@ -979,11 +961,10 @@
     <MESSAGE value="快排" />
     <MESSAGE value="垃圾收集器" />
     <MESSAGE value="类的加载机制和双亲委派模型" />
-    <option name="LAST_COMMIT_MESSAGE" value="类的加载机制和双亲委派模型" />
+    <MESSAGE value="Ioc和装配Bean的三种方式" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ioc和装配Bean的三种方式" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/img/2019-1-25-编译原理——语言及其文法/24.jpg" />
-    <entry file="file://$PROJECT_DIR$/img/2019-1-29-记一次处理ZooKeeper和Kafka的问题/22.jpg" />
     <entry file="file://$PROJECT_DIR$/img/2019-1-29-记一次处理ZooKeeper和Kafka的问题/kafka发送消息报错.png" />
     <entry file="file://$PROJECT_DIR$/img/2019-1-29-记一次处理ZooKeeper和Kafka的问题/kafka启动brokers已被注册.png" />
     <entry file="file://$PROJECT_DIR$/_posts/2019-1-28-分布式事务初识.md" />
@@ -1070,6 +1051,16 @@
     <entry file="file://$PROJECT_DIR$/img/2019-2-26-JVM知识点/新生代 Parallel Scavenge 和年老代 Parallel Old 收集器搭配.png" />
     <entry file="file://$PROJECT_DIR$/_posts/2019-3-20-HashMap源码分析.md" />
     <entry file="file://$PROJECT_DIR$/_posts/2019-3-23-GC收集器.md" />
+    <entry file="file://$PROJECT_DIR$/_posts/2019-3-25-类的加载机制.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="2874">
+            <caret line="166" column="12" selection-start-line="166" selection-start-column="12" selection-end-line="166" selection-end-column="12" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2019-3-9-ArrayList源码分析.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1085,6 +1076,26 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="3528">
             <caret line="196" selection-start-line="196" selection-end-line="196" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-3-20-垃圾收集器和内存分配策略.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="5634">
+            <caret line="313" selection-start-line="313" selection-end-line="313" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-3-26-双亲委派模型.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="990">
+            <caret line="55" column="21" selection-start-line="55" selection-start-column="21" selection-end-line="55" selection-end-column="21" />
           </first_editor>
           <second_editor />
         </state>
@@ -1140,31 +1151,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-3-25-类的加载机制.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2019-3-27-Java并发编程艺术学习笔记(一).md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="2874">
-            <caret line="166" column="12" selection-start-line="166" selection-start-column="12" selection-end-line="166" selection-end-column="12" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-3-20-垃圾收集器和内存分配策略.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="3440">
-            <caret line="313" selection-start-line="313" selection-end-line="313" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-3-26-双亲委派模型.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="653">
-            <caret line="55" column="21" selection-start-line="55" selection-start-column="21" selection-end-line="55" selection-end-column="21" />
+          <first_editor relative-caret-position="-144">
+            <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
           </first_editor>
           <second_editor />
         </state>
@@ -1173,23 +1164,21 @@
     <entry file="file://$PROJECT_DIR$/_posts/2019-3-27-Spring Ioc.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="1913">
-            <caret line="234" column="24" selection-start-line="234" selection-start-column="24" selection-end-line="234" selection-end-column="24" />
+          <first_editor relative-caret-position="401">
+            <caret line="251" selection-start-line="251" selection-end-line="251" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-3-27-Java并发编程艺术学习笔记(二).md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="365">
+            <caret line="107" lean-forward="true" selection-start-line="107" selection-end-line="107" />
             <folding>
-              <element signature="e#138#139#0" expanded="true" />
-              <element signature="e#166#167#0" expanded="true" />
-              <element signature="e#205#206#0" expanded="true" />
-              <element signature="e#230#231#0" expanded="true" />
-              <element signature="e#203#204#0" expanded="true" />
-              <element signature="e#234#235#0" expanded="true" />
-              <element signature="e#112#113#0" expanded="true" />
-              <element signature="e#140#141#0" expanded="true" />
-              <element signature="e#179#180#0" expanded="true" />
-              <element signature="e#204#205#0" expanded="true" />
-              <element signature="e#108#109#0" expanded="true" />
-              <element signature="e#150#151#0" expanded="true" />
-              <element signature="e#200#201#0" expanded="true" />
-              <element signature="e#231#232#0" expanded="true" />
+              <element signature="n#!!doc" expanded="true" />
+              <element signature="n#!!doc" expanded="true" />
             </folding>
           </first_editor>
           <second_editor />
