@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="487602e8-7b9b-48a7-9bde-e104d5d48f8c" name="Default" comment="Ioc和装配Bean的三种方式">
-      <change afterPath="$PROJECT_DIR$/_posts/2019-3-27-Java并发编程艺术学习笔记(一).md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2019-3-27-Java并发编程艺术学习笔记(二).md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/20151219193538740.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/20151219194411123.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/20151219195145118.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/20151220094122284.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2019-3-28-Java并发编程艺术学习笔记(三).md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,24 +15,25 @@
     <session id="-1385373482">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="12" />
+          <entry key="project.closed" value="13" />
           <entry key="project.open.time.16" value="1" />
           <entry key="project.open.time.19" value="1" />
           <entry key="project.open.time.35" value="1" />
+          <entry key="project.open.time.37" value="1" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.43" value="1" />
           <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.51" value="1" />
           <entry key="project.open.time.7" value="4" />
           <entry key="project.open.time.8" value="2" />
-          <entry key="project.opened" value="13" />
+          <entry key="project.opened" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="html" value="2" />
           <entry key="jpg" value="9" />
-          <entry key="md" value="22" />
+          <entry key="md" value="23" />
           <entry key="png" value="2" />
           <entry key="yml" value="2" />
         </counts>
@@ -46,13 +42,13 @@
         <counts>
           <entry key="HTML" value="2" />
           <entry key="Image" value="11" />
-          <entry key="Markdown" value="22" />
+          <entry key="Markdown" value="23" />
           <entry key="YAML" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="md" value="9500" />
+          <entry key="md" value="9719" />
           <entry key="txt" value="253" />
           <entry key="yml" value="51" />
         </counts>
@@ -60,7 +56,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JAVA" value="10" />
-          <entry key="Markdown" value="9490" />
+          <entry key="Markdown" value="9709" />
           <entry key="PLAIN_TEXT" value="253" />
           <entry key="YAML" value="51" />
         </counts>
@@ -97,7 +93,7 @@
         <entry file="file://$PROJECT_DIR$/_posts/2019-3-27-Spring Ioc.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="401">
+              <first_editor relative-caret-position="4518">
                 <caret line="251" selection-start-line="251" selection-end-line="251" />
               </first_editor>
               <second_editor />
@@ -105,15 +101,26 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2019-3-27-Java并发编程艺术学习笔记(二).md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="365">
-                <caret line="107" lean-forward="true" selection-start-line="107" selection-end-line="107" />
+              <first_editor relative-caret-position="703">
+                <caret line="107" selection-start-line="107" selection-end-line="107" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-3-28-Java并发编程艺术学习笔记(三).md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="437">
+                <caret line="188" column="19" selection-start-line="188" selection-start-column="19" selection-end-line="188" selection-end-column="19" />
                 <folding>
-                  <element signature="n#!!doc" expanded="true" />
-                  <element signature="n#!!doc" expanded="true" />
+                  <element signature="imports" expanded="true" />
                 </folding>
               </first_editor>
               <second_editor />
@@ -281,6 +288,7 @@
         <option value="$PROJECT_DIR$/_posts/2019-3-27-Spring Ioc.md" />
         <option value="$PROJECT_DIR$/_posts/2019-3-27-Java并发编程艺术学习笔记(一).md" />
         <option value="$PROJECT_DIR$/_posts/2019-3-27-Java并发编程艺术学习笔记(二).md" />
+        <option value="$PROJECT_DIR$/_posts/2019-3-28-Java并发编程艺术学习笔记(三).md" />
       </list>
     </option>
   </component>
@@ -340,8 +348,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -363,26 +369,28 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553701968594" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553755554205" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\IDEA_project\zhouyimian.github.io\_posts" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\IDEA web\xkx1998.github.io\_posts" />
       <recent name="E:\IDEA web\xkx1998.github.io\img" />
       <recent name="E:\IDEA web\xkx1998.github.io\img\2019-3-25-类的加载机制" />
       <recent name="E:\IDEA web\xkx1998.github.io\img\2019-3-20-LinkedList" />
       <recent name="E:\IDEA web\xkx1998.github.io\img\2019-3-14-Java内存区域与内存溢出异常" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\IDEA_project\zhouyimian.github.io\_posts" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -511,14 +519,8 @@
       <workItem from="1553087765907" duration="7460000" />
       <workItem from="1553307194009" duration="6282000" />
       <workItem from="1553527290065" duration="21233000" />
-      <workItem from="1553690348677" duration="6100000" />
-    </task>
-    <task id="LOCAL-00024" summary="2019-01-25-编译原理——语言及其文法">
-      <created>1548585196513</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1548585196513</updated>
+      <workItem from="1553690348677" duration="6628000" />
+      <workItem from="1553734903726" duration="3062000" />
     </task>
     <task id="LOCAL-00025" summary="2019-01-25-编译原理——语言及其文法">
       <created>1548585309982</created>
@@ -856,17 +858,24 @@
       <option name="project" value="LOCAL" />
       <updated>1553674497378</updated>
     </task>
-    <option name="localTasksCounter" value="73" />
+    <task id="LOCAL-00073" summary="Ioc和装配Bean的三种方式">
+      <created>1553702241233</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1553702241235</updated>
+    </task>
+    <option name="localTasksCounter" value="74" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="122574000" />
+    <option name="totallyTimeSpent" value="126164000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3623298" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.36762482" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -965,7 +974,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="Ioc和装配Bean的三种方式" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/img/2019-1-29-记一次处理ZooKeeper和Kafka的问题/kafka发送消息报错.png" />
     <entry file="file://$PROJECT_DIR$/img/2019-1-29-记一次处理ZooKeeper和Kafka的问题/kafka启动brokers已被注册.png" />
     <entry file="file://$PROJECT_DIR$/_posts/2019-1-28-分布式事务初识.md" />
     <entry file="file://$PROJECT_DIR$/img/2019-1-30-编译原理——语法分析/16.jpg" />
@@ -1081,6 +1089,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-3-27-Java并发编程艺术学习笔记(一).md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-144">
+            <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2019-3-20-垃圾收集器和内存分配策略.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1096,6 +1114,16 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="990">
             <caret line="55" column="21" selection-start-line="55" selection-start-column="21" selection-end-line="55" selection-end-column="21" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-3-27-Spring Ioc.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="4518">
+            <caret line="251" selection-start-line="251" selection-end-line="251" />
           </first_editor>
           <second_editor />
         </state>
@@ -1151,34 +1179,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-3-27-Java并发编程艺术学习笔记(一).md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-144">
-            <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-3-27-Spring Ioc.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="401">
-            <caret line="251" selection-start-line="251" selection-end-line="251" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2019-3-27-Java并发编程艺术学习笔记(二).md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="365">
-            <caret line="107" lean-forward="true" selection-start-line="107" selection-end-line="107" />
+          <first_editor relative-caret-position="703">
+            <caret line="107" selection-start-line="107" selection-end-line="107" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-3-28-Java并发编程艺术学习笔记(三).md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="437">
+            <caret line="188" column="19" selection-start-line="188" selection-start-column="19" selection-end-line="188" selection-end-column="19" />
             <folding>
-              <element signature="n#!!doc" expanded="true" />
-              <element signature="n#!!doc" expanded="true" />
+              <element signature="imports" expanded="true" />
             </folding>
           </first_editor>
           <second_editor />
