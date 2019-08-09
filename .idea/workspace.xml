@@ -2,21 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="487602e8-7b9b-48a7-9bde-e104d5d48f8c" name="Default" comment="添加">
-      <change afterPath="$PROJECT_DIR$/img/1565014851(1).jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/1565015530(1).jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/1565015836(1).jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/1565015978(1).jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/1565016216(1).jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/1565017708(1).jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/1565017927(1).jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/1565017993(1).jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/1565018054(1).jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/1565018196(1).jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/1565018260(1).jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/1565018539(1).jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/1565018570(1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2019-8-6-Redis主从复制.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/1565320358(1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/1565320413(1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/1565320599(1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/1565320710(1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/1565320919(1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/1565328704(1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/1565329130(1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/1565329588(1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/1565330221(1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/1565330781(1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/1565330918(1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/1565331690.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/1565331901(1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/1565331952(1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/1565332051(1).jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-8-5-Redis的五种数据类型.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-8-5-Redis的五种数据类型.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,7 +35,9 @@
           <entry key="project.open.time.16" value="1" />
           <entry key="project.open.time.19" value="1" />
           <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.34" value="1" />
           <entry key="project.open.time.35" value="1" />
+          <entry key="project.open.time.36" value="1" />
           <entry key="project.open.time.37" value="1" />
           <entry key="project.open.time.39" value="1" />
           <entry key="project.open.time.4" value="1" />
@@ -46,7 +50,7 @@
           <entry key="project.open.time.75" value="1" />
           <entry key="project.open.time.8" value="4" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="26" />
+          <entry key="project.opened" value="28" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -54,7 +58,7 @@
           <entry key="2019-4-12-搞懂volatilemd" value="1" />
           <entry key="html" value="2" />
           <entry key="jpg" value="11" />
-          <entry key="md" value="45" />
+          <entry key="md" value="46" />
           <entry key="png" value="2" />
           <entry key="yml" value="2" />
         </counts>
@@ -63,22 +67,22 @@
         <counts>
           <entry key="HTML" value="2" />
           <entry key="Image" value="13" />
-          <entry key="Markdown" value="45" />
+          <entry key="Markdown" value="46" />
           <entry key="PLAIN_TEXT" value="1" />
           <entry key="YAML" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="md" value="15941" />
+          <entry key="md" value="18856" />
           <entry key="txt" value="297" />
           <entry key="yml" value="51" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="13" />
-          <entry key="Markdown" value="15928" />
+          <entry key="JAVA" value="22" />
+          <entry key="Markdown" value="18834" />
           <entry key="PLAIN_TEXT" value="297" />
           <entry key="YAML" value="51" />
         </counts>
@@ -147,12 +151,24 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2019-8-5-Redis的五种数据类型.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="587">
-                <caret line="193" column="59" selection-start-line="193" selection-start-column="59" selection-end-line="193" selection-end-column="59" />
+              <first_editor relative-caret-position="524">
+                <caret line="193" selection-start-line="193" selection-end-line="193" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-8-6-Redis主从复制.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="523">
+                <caret line="218" column="3" selection-start-line="218" selection-start-column="3" selection-end-line="218" selection-end-column="3" />
               </first_editor>
               <second_editor />
             </state>
@@ -250,7 +266,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/_posts/2019-01-24 编译原理绪论.md" />
         <option value="$PROJECT_DIR$/_posts/2019-01-24-编译原理绪论.md" />
         <option value="$PROJECT_DIR$/_posts/2019-01-23-Zookeeper环境的搭建以及简单测试.md" />
         <option value="$PROJECT_DIR$/_posts/2019-01-22-Zookeeper概念、原理、应用场景.md" />
@@ -301,6 +316,7 @@
         <option value="$PROJECT_DIR$/_posts/2019-6-3-装饰者模式.md" />
         <option value="$PROJECT_DIR$/_posts/2019-8-5-Redis的六种数据结构.md" />
         <option value="$PROJECT_DIR$/_posts/2019-8-5-Redis的五种数据类型.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-8-6-Redis主从复制.md" />
       </list>
     </option>
   </component>
@@ -360,7 +376,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -387,27 +403,27 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1565018820397" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1565190675476" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\IDEA_project\zhouyimian.github.io\_posts" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\IDEA web\xkx1998.github.io\img" />
       <recent name="E:\IDEA web\xkx1998.github.io\_posts" />
       <recent name="E:\IDEA web\xkx1998.github.io\img\2019-3-25-类的加载机制" />
       <recent name="E:\IDEA web\xkx1998.github.io\img\2019-3-20-LinkedList" />
       <recent name="E:\IDEA web\xkx1998.github.io\img\2019-3-14-Java内存区域与内存溢出异常" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\IDEA_project\zhouyimian.github.io\_posts" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -550,6 +566,8 @@
       <workItem from="1559571431745" duration="1546000" />
       <workItem from="1564971835212" duration="7540000" />
       <workItem from="1565014060524" duration="4447000" />
+      <workItem from="1565186559548" duration="597000" />
+      <workItem from="1565315016436" duration="8093000" />
     </task>
     <task id="LOCAL-00032" summary="2019-01-28-分布式事务初识">
       <created>1548743247081</created>
@@ -898,14 +916,14 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="175064000" />
+    <option name="totallyTimeSpent" value="183754000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.245702" />
-      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1323752" />
+      <window_info id="Structure" order="1" weight="0.24962178" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -936,8 +954,8 @@
       <window_info anchor="right" id="Maven Projects" order="8" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.245702" />
-      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24054463" />
+      <window_info id="Structure" order="1" weight="0.24962178" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -1003,7 +1021,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="添加" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_posts/2019-2-2-hadoop环境搭建.md" />
     <entry file="file://$PROJECT_DIR$/_posts/2019-2-2-hive深入使用.md" />
     <entry file="file://$PROJECT_DIR$/_posts/2019-2-4-30分钟学会shell.md" />
     <entry file="file://$PROJECT_DIR$/_posts/2019-2-14-Java基础复习.md" />
@@ -1229,6 +1246,9 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/img/1565017993(1).jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2019-4-11-死锁.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1314,14 +1334,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/1565017993(1).jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2019-8-5-Redis的五种数据类型.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="587">
-            <caret line="193" column="59" selection-start-line="193" selection-start-column="59" selection-end-line="193" selection-end-column="59" />
+          <first_editor relative-caret-position="524">
+            <caret line="193" selection-start-line="193" selection-end-line="193" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-8-6-Redis主从复制.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="523">
+            <caret line="218" column="3" selection-start-line="218" selection-start-column="3" selection-end-line="218" selection-end-column="3" />
           </first_editor>
           <second_editor />
         </state>
