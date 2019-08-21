@@ -1,22 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="487602e8-7b9b-48a7-9bde-e104d5d48f8c" name="Default" comment="redis主从复制">
-      <change afterPath="$PROJECT_DIR$/_posts/2019-8-17-Redis哨兵.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/1566181203(1).jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/1566181292(1).jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/1566181423(1).jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/1566181447(1).jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/1566181984(1).jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/1566193814(1).jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/1566194301(1).jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/1566195017(1).jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/1566196257(1).jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/1566196427(1).jpg" afterDir="false" />
+    <list default="true" id="487602e8-7b9b-48a7-9bde-e104d5d48f8c" name="Default" comment="redis哨兵模式">
+      <change afterPath="$PROJECT_DIR$/_posts/2019-8-19-hashcode与equals.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-8-5-Redis的五种数据类型.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-8-5-Redis的五种数据类型.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-8-5-Redis的六种数据结构.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-8-5-Redis的六种数据结构.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-8-6-Redis主从复制.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-8-6-Redis主从复制.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,7 +15,7 @@
     <session id="-1385373482">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="24" />
+          <entry key="project.closed" value="26" />
           <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.16" value="1" />
           <entry key="project.open.time.19" value="1" />
@@ -44,21 +31,22 @@
           <entry key="project.open.time.45" value="1" />
           <entry key="project.open.time.5" value="2" />
           <entry key="project.open.time.51" value="1" />
+          <entry key="project.open.time.52" value="1" />
           <entry key="project.open.time.58" value="1" />
           <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.7" value="6" />
           <entry key="project.open.time.75" value="1" />
           <entry key="project.open.time.8" value="4" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="30" />
+          <entry key="project.opened" value="31" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="2019-4-12-搞懂volatilemd" value="1" />
           <entry key="html" value="2" />
-          <entry key="jpg" value="12" />
-          <entry key="md" value="48" />
+          <entry key="jpg" value="13" />
+          <entry key="md" value="49" />
           <entry key="png" value="2" />
           <entry key="yml" value="2" />
         </counts>
@@ -66,24 +54,24 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="HTML" value="2" />
-          <entry key="Image" value="14" />
-          <entry key="Markdown" value="48" />
+          <entry key="Image" value="15" />
+          <entry key="Markdown" value="49" />
           <entry key="PLAIN_TEXT" value="1" />
           <entry key="YAML" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="md" value="20264" />
-          <entry key="txt" value="309" />
+          <entry key="md" value="20580" />
+          <entry key="txt" value="313" />
           <entry key="yml" value="51" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="24" />
-          <entry key="Markdown" value="20240" />
-          <entry key="PLAIN_TEXT" value="309" />
+          <entry key="JAVA" value="25" />
+          <entry key="Markdown" value="20555" />
+          <entry key="PLAIN_TEXT" value="313" />
           <entry key="YAML" value="51" />
         </counts>
       </usages-collector>
@@ -139,12 +127,35 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2019-8-17-Redis哨兵.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="437">
-                <caret line="288" lean-forward="true" selection-start-line="288" selection-end-line="288" />
+              <first_editor relative-caret-position="108">
+                <caret line="6" column="27" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-8-19-hashcode与equals.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="5292">
+                <caret line="294" column="22" lean-forward="true" selection-start-line="294" selection-start-column="22" selection-end-line="294" selection-end-column="22" />
+                <folding>
+                  <element signature="imports" expanded="true" />
+                  <element signature="e#305#306#0" expanded="true" />
+                  <element signature="e#335#336#0" expanded="true" />
+                  <element signature="imports" expanded="true" />
+                  <element signature="e#305#306#0" expanded="true" />
+                  <element signature="e#335#336#0" expanded="true" />
+                  <element signature="imports" expanded="true" />
+                  <element signature="e#305#306#0" expanded="true" />
+                  <element signature="e#335#336#0" expanded="true" />
+                </folding>
               </first_editor>
               <second_editor />
             </state>
@@ -254,9 +265,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/_posts/2019-01-23-Zookeeper环境的搭建以及简单测试.md" />
-        <option value="$PROJECT_DIR$/_posts/2019-01-22-Zookeeper概念、原理、应用场景.md" />
-        <option value="$PROJECT_DIR$/_posts/2019-01-28-分布式事务初识.md" />
         <option value="$PROJECT_DIR$/_posts/2019-01-25-编译原理——语言及其文法.md" />
         <option value="$PROJECT_DIR$/_posts/2019-01-29-记一次处理ZooKeeper和Kafka的问题.md" />
         <option value="$PROJECT_DIR$/_posts/2019-01-30-编译原理——语法分析.md" />
@@ -305,6 +313,9 @@
         <option value="$PROJECT_DIR$/_posts/2019-8-5-Redis的六种数据结构.md" />
         <option value="$PROJECT_DIR$/_posts/2019-8-5-Redis的五种数据类型.md" />
         <option value="$PROJECT_DIR$/_posts/2019-8-17-Redis哨兵.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-8-19-BIO、NIO、AIO.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-8-19-关于Object类下所有方法的简单解析.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-8-19-hashcode与equals.md" />
       </list>
     </option>
   </component>
@@ -365,7 +376,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -373,39 +383,25 @@
               <item name="xkx1998.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="xkx1998.github.io" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="xkx1998.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="xkx1998.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="_posts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="xkx1998.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="xkx1998.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="xkx1998.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="xkx1998.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566007140110" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566293019124" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\IDEA web\xkx1998.github.io\img" />
       <recent name="E:\IDEA web\xkx1998.github.io\_posts" />
+      <recent name="E:\IDEA web\xkx1998.github.io\img" />
       <recent name="E:\IDEA web\xkx1998.github.io\img\2019-3-25-类的加载机制" />
       <recent name="E:\IDEA web\xkx1998.github.io\img\2019-3-20-LinkedList" />
       <recent name="E:\IDEA web\xkx1998.github.io\img\2019-3-14-Java内存区域与内存溢出异常" />
@@ -557,14 +553,8 @@
       <workItem from="1565186559548" duration="597000" />
       <workItem from="1565315016436" duration="9481000" />
       <workItem from="1566006324265" duration="1302000" />
-      <workItem from="1566180996767" duration="7291000" />
-    </task>
-    <task id="LOCAL-00033" summary="2019-01-29-记一次处理ZooKeeper和Kafka的问题">
-      <created>1548779285646</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1548779285646</updated>
+      <workItem from="1566180996767" duration="10298000" />
+      <workItem from="1566289808321" duration="3160000" />
     </task>
     <task id="LOCAL-00034" summary="2019-01-30-编译原理——语法分析">
       <created>1548835184721</created>
@@ -902,17 +892,23 @@
       <option name="project" value="LOCAL" />
       <updated>1565332208180</updated>
     </task>
-    <option name="localTasksCounter" value="82" />
+    <task id="LOCAL-00082" summary="redis哨兵模式">
+      <created>1566196923247</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1566196923248</updated>
+    </task>
+    <option name="localTasksCounter" value="83" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="193735000" />
+    <option name="totallyTimeSpent" value="199902000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25416037" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31316188" />
       <window_info id="Structure" order="1" weight="0.24962178" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -944,7 +940,7 @@
       <window_info anchor="right" id="Maven Projects" order="8" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25416037" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.31316188" />
       <window_info id="Structure" order="1" weight="0.24962178" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -983,7 +979,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2019-2-18-HBase环境搭建及初识" />
     <MESSAGE value="修改图片" />
     <MESSAGE value="修改about.html内容" />
     <MESSAGE value="修改封面" />
@@ -1008,11 +1003,10 @@
     <MESSAGE value="死锁" />
     <MESSAGE value="添加" />
     <MESSAGE value="redis主从复制" />
-    <option name="LAST_COMMIT_MESSAGE" value="redis主从复制" />
+    <MESSAGE value="redis哨兵模式" />
+    <option name="LAST_COMMIT_MESSAGE" value="redis哨兵模式" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_posts/2019-2-14-Java基础复习.md" />
-    <entry file="file://$PROJECT_DIR$/_posts/2019-2-18-HBase环境搭建及初识.md" />
     <entry file="file://$PROJECT_DIR$/_posts/2019-2-2-hive环境的搭建及运行.md" />
     <entry file="file://$PROJECT_DIR$/_posts/2019-2-26-JVM知识点.md" />
     <entry file="file://$PROJECT_DIR$/_posts/2019-1-30-编译原理——语法分析.md" />
@@ -1257,6 +1251,12 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/img/1566193814(1).jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/1566196780(1).jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2019-4-12-搞懂volatile.md">
       <provider editor-type-id="text-editor">
         <state relative-caret-position="498">
@@ -1302,6 +1302,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-8-17-Redis哨兵.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="108">
+            <caret line="6" column="27" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2019-8-6-Redis主从复制.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1342,14 +1352,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/1566193814(1).jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-8-17-Redis哨兵.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2019-8-19-hashcode与equals.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="437">
-            <caret line="288" lean-forward="true" selection-start-line="288" selection-end-line="288" />
+          <first_editor relative-caret-position="5292">
+            <caret line="294" column="22" lean-forward="true" selection-start-line="294" selection-start-column="22" selection-end-line="294" selection-end-column="22" />
+            <folding>
+              <element signature="imports" expanded="true" />
+              <element signature="e#305#306#0" expanded="true" />
+              <element signature="e#335#336#0" expanded="true" />
+              <element signature="imports" expanded="true" />
+              <element signature="e#305#306#0" expanded="true" />
+              <element signature="e#335#336#0" expanded="true" />
+              <element signature="imports" expanded="true" />
+              <element signature="e#305#306#0" expanded="true" />
+              <element signature="e#335#336#0" expanded="true" />
+            </folding>
           </first_editor>
           <second_editor />
         </state>
