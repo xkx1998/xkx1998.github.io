@@ -1,24 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="487602e8-7b9b-48a7-9bde-e104d5d48f8c" name="Default" comment="设计模式">
-      <change afterPath="$PROJECT_DIR$/_posts/2019-8-22-主从+哨兵模式的Redis集群.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/1566540821(1).jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/1566541063(1).jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/1566541194(1).jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/1566542231(1).jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/1566542262(1).jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/1566542486(1).jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/1566542547(1).jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/1566542917(1).jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/1566542954(1).jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/1566543816(1).jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/1566543859(1).jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/1566543890(1).jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/1566543992(1).jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/1566544125(1).jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/1566544544(1).jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/view/1566540821(1).jpg" afterDir="false" />
+    <list default="true" id="487602e8-7b9b-48a7-9bde-e104d5d48f8c" name="Default" comment="Redis集群">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -78,16 +61,16 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="md" value="23017" />
-          <entry key="txt" value="317" />
+          <entry key="md" value="23072" />
+          <entry key="txt" value="324" />
           <entry key="yml" value="51" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JAVA" value="41" />
-          <entry key="Markdown" value="22976" />
-          <entry key="PLAIN_TEXT" value="317" />
+          <entry key="Markdown" value="23031" />
+          <entry key="PLAIN_TEXT" value="324" />
           <entry key="YAML" value="51" />
         </counts>
       </usages-collector>
@@ -135,8 +118,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2019-8-22-主从+哨兵模式的Redis集群.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="217">
-                <caret line="106" column="7" selection-start-line="106" selection-start-column="7" selection-end-line="106" selection-end-column="7" />
+              <first_editor relative-caret-position="414">
+                <caret line="149" column="17" selection-start-line="149" selection-start-column="17" selection-end-line="149" selection-end-column="17" />
               </first_editor>
               <second_editor />
             </state>
@@ -336,7 +319,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566545254005" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566545387857" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
@@ -499,14 +482,7 @@
       <workItem from="1566180996767" duration="10298000" />
       <workItem from="1566289808321" duration="3160000" />
       <workItem from="1566369397291" duration="10008000" />
-      <workItem from="1566540562356" duration="4537000" />
-    </task>
-    <task id="LOCAL-00036" summary="2019-01-30-编译原理——文法转换">
-      <created>1548851839313</created>
-      <option name="number" value="00036" />
-      <option name="presentableId" value="LOCAL-00036" />
-      <option name="project" value="LOCAL" />
-      <updated>1548851839313</updated>
+      <workItem from="1566540562356" duration="4804000" />
     </task>
     <task id="LOCAL-00037" summary="2019-01-30-编译原理——文法转换">
       <created>1548852137693</created>
@@ -844,14 +820,21 @@
       <option name="project" value="LOCAL" />
       <updated>1566443386199</updated>
     </task>
-    <option name="localTasksCounter" value="85" />
+    <task id="LOCAL-00085" summary="Redis集群">
+      <created>1566545314858</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1566545314860</updated>
+    </task>
+    <option name="localTasksCounter" value="86" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="214447000" />
+    <option name="totallyTimeSpent" value="214714000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19288956" />
@@ -925,7 +908,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="修改about.html内容" />
     <MESSAGE value="修改封面" />
     <MESSAGE value="java的学习路线和自己的心得体会" />
     <MESSAGE value="2019-3-4的复习计划" />
@@ -950,7 +932,8 @@
     <MESSAGE value="redis主从复制" />
     <MESSAGE value="redis哨兵模式" />
     <MESSAGE value="设计模式" />
-    <option name="LAST_COMMIT_MESSAGE" value="设计模式" />
+    <MESSAGE value="Redis集群" />
+    <option name="LAST_COMMIT_MESSAGE" value="Redis集群" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/img/wechatHead.jpg">
@@ -1328,8 +1311,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2019-8-22-主从+哨兵模式的Redis集群.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="217">
-            <caret line="106" column="7" selection-start-line="106" selection-start-column="7" selection-end-line="106" selection-end-column="7" />
+          <first_editor relative-caret-position="414">
+            <caret line="149" column="17" selection-start-line="149" selection-start-column="17" selection-end-line="149" selection-end-column="17" />
           </first_editor>
           <second_editor />
         </state>
