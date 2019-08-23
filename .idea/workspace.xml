@@ -1,11 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="487602e8-7b9b-48a7-9bde-e104d5d48f8c" name="Default" comment="redis哨兵模式">
-      <change afterPath="$PROJECT_DIR$/_posts/2019-8-21-设计模式之单例模式.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2019-8-21-设计模式之策略者模式.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/1566441080(1).jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/1566441314.jpg" afterDir="false" />
+    <list default="true" id="487602e8-7b9b-48a7-9bde-e104d5d48f8c" name="Default" comment="设计模式">
+      <change afterPath="$PROJECT_DIR$/_posts/2019-8-22-主从+哨兵模式的Redis集群.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/1566540821(1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/1566541063(1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/1566541194(1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/1566542231(1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/1566542262(1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/1566542486(1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/1566542547(1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/1566542917(1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/1566542954(1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/1566543816(1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/1566543859(1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/1566543890(1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/1566543992(1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/1566544125(1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/1566544544(1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/view/1566540821(1).jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,7 +31,7 @@
     <session id="-1385373482">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="26" />
+          <entry key="project.closed" value="27" />
           <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.16" value="1" />
           <entry key="project.open.time.19" value="1" />
@@ -34,14 +47,14 @@
           <entry key="project.open.time.45" value="1" />
           <entry key="project.open.time.5" value="2" />
           <entry key="project.open.time.51" value="1" />
-          <entry key="project.open.time.52" value="1" />
+          <entry key="project.open.time.52" value="2" />
           <entry key="project.open.time.58" value="1" />
           <entry key="project.open.time.6" value="2" />
           <entry key="project.open.time.7" value="6" />
           <entry key="project.open.time.75" value="1" />
           <entry key="project.open.time.8" value="4" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="32" />
+          <entry key="project.opened" value="33" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -49,7 +62,7 @@
           <entry key="2019-4-12-搞懂volatilemd" value="1" />
           <entry key="html" value="2" />
           <entry key="jpg" value="13" />
-          <entry key="md" value="52" />
+          <entry key="md" value="53" />
           <entry key="png" value="2" />
           <entry key="yml" value="2" />
         </counts>
@@ -58,23 +71,23 @@
         <counts>
           <entry key="HTML" value="2" />
           <entry key="Image" value="15" />
-          <entry key="Markdown" value="52" />
+          <entry key="Markdown" value="53" />
           <entry key="PLAIN_TEXT" value="1" />
           <entry key="YAML" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="md" value="21906" />
-          <entry key="txt" value="313" />
+          <entry key="md" value="23017" />
+          <entry key="txt" value="317" />
           <entry key="yml" value="51" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JAVA" value="41" />
-          <entry key="Markdown" value="21865" />
-          <entry key="PLAIN_TEXT" value="313" />
+          <entry key="Markdown" value="22976" />
+          <entry key="PLAIN_TEXT" value="317" />
           <entry key="YAML" value="51" />
         </counts>
       </usages-collector>
@@ -86,8 +99,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2019-8-19-hashcode与equals.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="55">
-                <caret line="266" column="5" lean-forward="true" selection-start-line="266" selection-start-column="5" selection-end-line="266" selection-end-column="5" />
+              <first_editor relative-caret-position="4788">
+                <caret line="266" column="5" selection-start-line="266" selection-start-column="5" selection-end-line="266" selection-end-column="5" />
               </first_editor>
               <second_editor />
             </state>
@@ -98,7 +111,7 @@
         <entry file="file://$PROJECT_DIR$/_posts/2019-8-21-设计模式之单例模式.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="523">
+              <first_editor relative-caret-position="2592">
                 <caret line="144" column="25" selection-start-line="144" selection-start-column="25" selection-end-line="144" selection-end-column="25" />
               </first_editor>
               <second_editor />
@@ -106,12 +119,24 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2019-8-21-设计模式之策略者模式.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="383">
+              <first_editor relative-caret-position="992">
                 <caret line="157" column="51" selection-start-line="157" selection-start-column="51" selection-end-line="157" selection-end-column="51" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-8-22-主从+哨兵模式的Redis集群.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="217">
+                <caret line="106" column="7" selection-start-line="106" selection-start-column="7" selection-end-line="106" selection-end-column="7" />
               </first_editor>
               <second_editor />
             </state>
@@ -173,7 +198,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/_posts/2019-01-30-编译原理——语法分析.md" />
         <option value="$PROJECT_DIR$/_posts/2019-01-30-编译原理——文法转换.md" />
         <option value="$PROJECT_DIR$/_posts/2019-02-02-hadoop环境搭建.md" />
         <option value="$PROJECT_DIR$/_posts/2019-01-19-HQL和SQL的联系与区别.md" />
@@ -224,6 +248,7 @@
         <option value="$PROJECT_DIR$/_posts/2019-8-19-hashcode与equals.md" />
         <option value="$PROJECT_DIR$/_posts/2019-8-21-设计模式之单例模式.md" />
         <option value="$PROJECT_DIR$/_posts/2019-8-21-设计模式之策略者模式.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-8-22-主从+哨兵模式的Redis集群.md" />
       </list>
     </option>
   </component>
@@ -283,8 +308,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -306,26 +329,28 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566442913334" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566545254005" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\IDEA_project\zhouyimian.github.io\_posts" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\IDEA web\xkx1998.github.io\img" />
+      <recent name="E:\IDEA web\xkx1998.github.io\img\view" />
       <recent name="E:\IDEA web\xkx1998.github.io\_posts" />
       <recent name="E:\IDEA web\xkx1998.github.io\img\2019-3-25-类的加载机制" />
       <recent name="E:\IDEA web\xkx1998.github.io\img\2019-3-20-LinkedList" />
-      <recent name="E:\IDEA web\xkx1998.github.io\img\2019-3-14-Java内存区域与内存溢出异常" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\IDEA_project\zhouyimian.github.io\_posts" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -473,14 +498,8 @@
       <workItem from="1566006324265" duration="1302000" />
       <workItem from="1566180996767" duration="10298000" />
       <workItem from="1566289808321" duration="3160000" />
-      <workItem from="1566369397291" duration="9960000" />
-    </task>
-    <task id="LOCAL-00035" summary="2019-01-30-编译原理——语法分析">
-      <created>1548836131378</created>
-      <option name="number" value="00035" />
-      <option name="presentableId" value="LOCAL-00035" />
-      <option name="project" value="LOCAL" />
-      <updated>1548836131378</updated>
+      <workItem from="1566369397291" duration="10008000" />
+      <workItem from="1566540562356" duration="4537000" />
     </task>
     <task id="LOCAL-00036" summary="2019-01-30-编译原理——文法转换">
       <created>1548851839313</created>
@@ -818,17 +837,24 @@
       <option name="project" value="LOCAL" />
       <updated>1566369520244</updated>
     </task>
-    <option name="localTasksCounter" value="84" />
+    <task id="LOCAL-00084" summary="设计模式">
+      <created>1566443386199</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1566443386199</updated>
+    </task>
+    <option name="localTasksCounter" value="85" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="209862000" />
+    <option name="totallyTimeSpent" value="214447000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18986385" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19288956" />
       <window_info id="Structure" order="1" weight="0.24962178" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -899,7 +925,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="修改图片" />
     <MESSAGE value="修改about.html内容" />
     <MESSAGE value="修改封面" />
     <MESSAGE value="java的学习路线和自己的心得体会" />
@@ -924,10 +949,10 @@
     <MESSAGE value="添加" />
     <MESSAGE value="redis主从复制" />
     <MESSAGE value="redis哨兵模式" />
-    <option name="LAST_COMMIT_MESSAGE" value="redis哨兵模式" />
+    <MESSAGE value="设计模式" />
+    <option name="LAST_COMMIT_MESSAGE" value="设计模式" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_posts/2019-1-30-编译原理——语法分析.md" />
     <entry file="file://$PROJECT_DIR$/img/wechatHead.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -1176,17 +1201,17 @@
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2019-4-12-搞懂volatile.md">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="498">
-          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
-        </state>
-      </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="594">
             <caret line="33" column="15" selection-start-line="33" selection-start-column="15" selection-end-line="33" selection-end-column="15" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="498">
+          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
         </state>
       </provider>
     </entry>
@@ -1273,8 +1298,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2019-8-19-hashcode与equals.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="55">
-            <caret line="266" column="5" lean-forward="true" selection-start-line="266" selection-start-column="5" selection-end-line="266" selection-end-column="5" />
+          <first_editor relative-caret-position="4788">
+            <caret line="266" column="5" selection-start-line="266" selection-start-column="5" selection-end-line="266" selection-end-column="5" />
           </first_editor>
           <second_editor />
         </state>
@@ -1283,7 +1308,7 @@
     <entry file="file://$PROJECT_DIR$/_posts/2019-8-21-设计模式之单例模式.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="523">
+          <first_editor relative-caret-position="2592">
             <caret line="144" column="25" selection-start-line="144" selection-start-column="25" selection-end-line="144" selection-end-column="25" />
           </first_editor>
           <second_editor />
@@ -1293,8 +1318,18 @@
     <entry file="file://$PROJECT_DIR$/_posts/2019-8-21-设计模式之策略者模式.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="383">
+          <first_editor relative-caret-position="992">
             <caret line="157" column="51" selection-start-line="157" selection-start-column="51" selection-end-line="157" selection-end-column="51" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-8-22-主从+哨兵模式的Redis集群.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="217">
+            <caret line="106" column="7" selection-start-line="106" selection-start-column="7" selection-end-line="106" selection-end-column="7" />
           </first_editor>
           <second_editor />
         </state>
